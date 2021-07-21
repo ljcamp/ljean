@@ -1,0 +1,485 @@
+Domain Name: THETRUMPNETWORK.COM
+Registry Domain ID: 1495910435_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2016-06-29T14:28:10Z
+Creation Date: 2008-06-17T23:11:28Z
+Registrar Registration Expiration Date: 2017-07-01T03:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: General Counsel
+Registrant Organization: The Trump Organization
+Registrant Street: 725 Fifth Avenue
+Registrant City: New York
+Registrant State/Province: New York
+Registrant Postal Code: 10022
+Registrant Country: US
+Registrant Phone: +1.2128322000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: generalcounsel@trumporg.com
+Registry Admin ID: Not Available From Registry
+Admin Name: General Counsel
+Admin Organization: The Trump Organization
+Admin Street: 725 Fifth Avenue
+Admin City: New York
+Admin State/Province: New York
+Admin Postal Code: 10022
+Admin Country: US
+Admin Phone: +1.2128322000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: generalcounsel@trumporg.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Jonathan Fahey
+Tech Organization: Ideal Health, Inc.
+Tech Street: 12 Kent Way
+Tech Street: Suite 101
+Tech City: Byfield
+Tech State/Province: Massachusetts
+Tech Postal Code: 01922
+Tech Country: US
+Tech Phone: 9727386013
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: jfahey@idealhealth.com
+Name Server: NS47.DOMAINCONTROL.COM
+Name Server: NS48.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2016-09-13T16:00:00Z <<<
+
+Domain Name: TRUMP-EMAIL.COM
+Registry Domain ID: 1565681481_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2016-06-29T14:27:44Z
+Creation Date: 2009-08-14T20:06:37Z
+Registrar Registration Expiration Date: 2017-07-01T03:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: Trump Orgainzation
+Registrant Organization: Trump Orgainzation
+Registrant Street: 725 Fifth Avenue
+Registrant City: New York
+Registrant State/Province: New York
+Registrant Postal Code: 10022
+Registrant Country: US
+Registrant Phone: +1.2128322000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: emcmullin@cendyn.com
+Registry Admin ID: Not Available From Registry
+Admin Name: Emily McMullin
+Admin Organization: Cendyn
+Admin Street: 1515 N Federal Highway
+Admin Street: Suite 419
+Admin City: Boca Raton
+Admin State/Province: Florida
+Admin Postal Code: 33432
+Admin Country: US
+Admin Phone: (561) 750-3173
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: ssl.admin@cendyn.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Emily McMullin
+Tech Organization: Cendyn
+Tech Street: 1515 N. Federal Highway
+Tech Street: Suite 419
+Tech City: Boca Raton
+Tech State/Province: Florida
+Tech Postal Code: 33432
+Tech Country: US
+Tech Phone: +1.5617503173
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: ssl.admin@cendyn.com
+Name Server: NS1.CDCSERVICES.COM
+Name Server: NS2.CDCSERVICES.COM
+Name Server: NS3.CDCSERVICES.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2016-09-13T16:00:00Z <<<
+
+Domain Name: TRUMPSOHO.COM
+Registry Domain ID: 313200720_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2016-06-29T14:25:26Z
+Creation Date: 2006-01-11T21:46:47Z
+Registrar Registration Expiration Date: 2017-07-01T03:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: General Counsel
+Registrant Organization: The Trump Organization
+Registrant Street: 725 Fifth Avenue
+Registrant City: New York
+Registrant State/Province: New York
+Registrant Postal Code: 10022
+Registrant Country: US
+Registrant Phone: +1.2128322000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: generalcounsel@trumporg.com
+Registry Admin ID: Not Available From Registry
+Admin Name: General Counsel
+Admin Organization: The Trump Organization
+Admin Street: 725 Fifth Avenue
+Admin City: New York
+Admin State/Province: New York
+Admin Postal Code: 10022
+Admin Country: US
+Admin Phone: +1.2128322000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: generalcounsel@trumporg.com
+Registry Tech ID: Not Available From Registry
+Tech Name: General Counsel
+Tech Organization: The Trump Organization
+Tech Street: 725 Fifth Avenue
+Tech City: New York
+Tech State/Province: New York
+Tech Postal Code: 10022
+Tech Country: US
+Tech Phone: +1.2128322000
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: generalcounsel@trumporg.com
+Name Server: NS75.DOMAINCONTROL.COM
+Name Server: NS76.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2016-09-13T16:00:00Z <<<
+
+Domain Name: TRUMPORG.COM
+Registry Domain ID: 5075051_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2016-06-29T14:27:25Z
+Creation Date: 1997-09-08T04:00:00Z
+Registrar Registration Expiration Date: 2017-07-01T03:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: General Counsel
+Registrant Organization: THE TRUMP ORGANIZATION
+Registrant Street: 725 FIFTH AVENUE
+Registrant City: NEW YORK
+Registrant State/Province: New York
+Registrant Postal Code: 10022
+Registrant Country: US
+Registrant Phone: +1.2128322000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: generalcounsel@trumporg.com
+Registry Admin ID: Not Available From Registry
+Admin Name: General Counsel
+Admin Organization: THE TRUMP ORGANIZATION
+Admin Street: 725 FIFTH AVENUE
+Admin City: NEW YORK
+Admin State/Province: New York
+Admin Postal Code: 10022
+Admin Country: US
+Admin Phone: +1.2128322000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: generalcounsel@trumporg.com
+Registry Tech ID: Not Available From Registry
+Tech Name: General Counsel
+Tech Organization: THE TRUMP ORGANIZATION
+Tech Street: 725 FIFTH AVENUE
+Tech City: NEW YORK
+Tech State/Province: New York
+Tech Postal Code: 10022
+Tech Country: US
+Tech Phone: +1.2128322000
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: generalcounsel@trumporg.com
+Name Server: NS03.DOMAINCONTROL.COM
+Name Server: NS04.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2016-09-13T16:00:00Z <<<
+
+Domain Name: TRUMPNETWORK.COM
+Registry Domain ID: 1355994640_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2016-06-29T14:25:23Z
+Creation Date: 2007-12-15T19:52:33Z
+Registrar Registration Expiration Date: 2017-07-01T03:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: General Counsel
+Registrant Organization: The Trump Organization
+Registrant Street: 725 Fifth Avenue
+Registrant City: New York
+Registrant State/Province: New York
+Registrant Postal Code: 10022
+Registrant Country: US
+Registrant Phone: +1.2128322000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: generalcounsel@trumporg.com
+Registry Admin ID: Not Available From Registry
+Admin Name: General Counsel
+Admin Organization: The Trump Organization
+Admin Street: 725 Fifth Avenue
+Admin City: New York
+Admin State/Province: New York
+Admin Postal Code: 10022
+Admin Country: US
+Admin Phone: +1.2128322000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: generalcounsel@trumporg.com
+Registry Tech ID: Not Available From Registry
+Tech Name: Mark Nichols
+Tech Organization: The Trump Network
+Tech Street: 428 Newburyport Turnpike
+Tech City: Rowley
+Tech State/Province: Massachusetts
+Tech Postal Code: 01969
+Tech Country: US
+Tech Phone: +1.9784999919
+Tech Phone Ext: 
+Tech Fax: +1.9784997664
+Tech Fax Ext: 
+Tech Email: markn@trumpnetwork.com
+Name Server: NS61.DOMAINCONTROL.COM
+Name Server: NS62.DOMAINCONTROL.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2016-09-13T16:00:00Z <<<
+
+Domain Name: TRUMPUNIVERSITY.COM
+Registry Domain ID: 117335268_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2016-06-29T14:25:31Z
+Creation Date: 2004-04-16T15:15:14Z
+Registrar Registration Expiration Date: 2017-07-01T03:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: General Counsel
+Registrant Organization: THE TRUMP ORGANIZATION
+Registrant Street: 725 FIFTH AVENUE
+Registrant City: NEW YORK
+Registrant State/Province: New York
+Registrant Postal Code: 10022
+Registrant Country: US
+Registrant Phone: +1.8322000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: generalcounsel@trumporg.com
+Registry Admin ID: Not Available From Registry
+Admin Name: General Counsel
+Admin Organization: THE TRUMP ORGANIZATION
+Admin Street: 725 FIFTH AVENUE
+Admin City: NEW YORK
+Admin State/Province: New York
+Admin Postal Code: 10022
+Admin Country: US
+Admin Phone: +1.8322000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: generalcounsel@trumporg.com
+Registry Tech ID: Not Available From Registry
+Tech Name: General Counsel
+Tech Organization: THE TRUMP ORGANIZATION
+Tech Street: 725 FIFTH AVENUE
+Tech City: NEW YORK
+Tech State/Province: New York
+Tech Postal Code: 10022
+Tech Country: US
+Tech Phone: +1.8322000
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: generalcounsel@trumporg.com
+Name Server: NS1.HOSTING.COM
+Name Server: NS2.HOSTING.COM
+Name Server: NS3.HOSTING.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2016-09-13T16:00:00Z <<<
+
+Domain Name: TRUMPHOTELS.COM
+Registry Domain ID: 97624697_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2016-05-21T01:16:04Z
+Creation Date: 2003-05-07T18:08:09Z
+Registrar Registration Expiration Date: 2021-07-01T03:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: General Counsel
+Registrant Organization: The Trump Organization
+Registrant Street: 725 Fifth Avenue
+Registrant City: New York
+Registrant State/Province: New York
+Registrant Postal Code: 10022
+Registrant Country: US
+Registrant Phone: +1.2128322000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: generalcounsel@trumporg.com
+Registry Admin ID: Not Available From Registry
+Admin Name: General Counsel
+Admin Organization: The Trump Organization
+Admin Street: 725 Fifth Avenue
+Admin City: New York
+Admin State/Province: New York
+Admin Postal Code: 10022
+Admin Country: US
+Admin Phone: +1.2128322000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: generalcounsel@trumporg.com
+Registry Tech ID: Not Available From Registry
+Tech Name: General Counsel
+Tech Organization: The Trump Organization
+Tech Street: 725 Fifth Avenue
+Tech City: New York
+Tech State/Province: New York
+Tech Postal Code: 10022
+Tech Country: US
+Tech Phone: +1.2128322000
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: generalcounsel@trumporg.com
+Name Server: ARAGORN.NS.CLOUDFLARE.COM
+Name Server: BONNIE.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2016-09-13T16:00:00Z <<<
+
+Domain Name: TRUMP.COM
+Registry Domain ID: 3687431_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.godaddy.com
+Registrar URL: http://www.godaddy.com
+Update Date: 2016-05-21T01:09:51Z
+Creation Date: 1997-07-09T04:00:00Z
+Registrar Registration Expiration Date: 2021-07-01T03:59:59Z
+Registrar: GoDaddy.com, LLC
+Registrar IANA ID: 146
+Registrar Abuse Contact Email: abuse@godaddy.com
+Registrar Abuse Contact Phone: +1.4806242505
+Domain Status: clientTransferProhibited http://www.icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited http://www.icann.org/epp#clientUpdateProhibited
+Domain Status: clientRenewProhibited http://www.icann.org/epp#clientRenewProhibited
+Domain Status: clientDeleteProhibited http://www.icann.org/epp#clientDeleteProhibited
+Registry Registrant ID: Not Available From Registry
+Registrant Name: General Counsel
+Registrant Organization: THE TRUMP ORGANIZATION
+Registrant Street: 725 FIFTH AVENUE
+Registrant City: NEW YORK
+Registrant State/Province: New York
+Registrant Postal Code: 10022
+Registrant Country: US
+Registrant Phone: +1.2128322000
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: generalcounsel@trumporg.com
+Registry Admin ID: Not Available From Registry
+Admin Name: General Counsel
+Admin Organization: THE TRUMP ORGANIZATION
+Admin Street: 725 FIFTH AVENUE
+Admin City: NEW YORK
+Admin State/Province: New York
+Admin Postal Code: 10022
+Admin Country: US
+Admin Phone: +1.2128322000
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: generalcounsel@trumporg.com
+Registry Tech ID: Not Available From Registry
+Tech Name: General Counsel
+Tech Organization: THE TRUMP ORGANIZATION
+Tech Street: 725 FIFTH AVENUE
+Tech City: NEW YORK
+Tech State/Province: New York
+Tech Postal Code: 10022
+Tech Country: US
+Tech Phone: +1.2128322000
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: generalcounsel@trumporg.com
+Name Server: MEGAN.NS.CLOUDFLARE.COM
+Name Server: MILES.NS.CLOUDFLARE.COM
+DNSSEC: unsigned
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2016-09-13T16:00:00Z <<<
+

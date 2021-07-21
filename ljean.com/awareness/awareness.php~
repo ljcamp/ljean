@@ -1,0 +1,76 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>L Jean Camp</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="http://www.ljean.com/sub.css" type="text/css" rel="stylesheet">
+</head>
+<div id="container"> 
+  <div id="title"></div>
+<p id="nav">
+    <?php include('navLinks.html');?>
+    
+</div>
+</id>
+
+<br>
+<br>
+<h2>Security Awareness &amp; Risk Communication Videos </h2>
+<p><A href="#video"><strong>Skip The Words - Give Me Videos</strong></A> <p>
+or <A href="#partner"><strong>Become a Research Partner</strong></A></p>
+<p>Do you know that smoking causes cancer? Specifically smoking behavior is found to be highly correlated with cancer. Experts over the years have gained a good understanding about the various mechanisms that initiates cancerous growth. However what you need to know is, "Don't Smoke".
+<p>Take the same approach to computer security.  Give straight-forward warnings. Tell simple stories. Use context to give people warnings when they need them. More details on how to instrument this approach are available at <A href="http://usablesecurity.net">UsableSecurity.net</A></p>
+<p>Here is the common approach to warnings:</p>
+<p><img src="smoke1.jpg" width="388"></p>
+<p>Here is the computer science approach to smoking warnings. </p>
+<p><img src="SmokeTechDetailsWords.jpg" width="562" height="280"></p>
+<p>Communication should focus on the ability to mitigate or avoid a risk, not the details of the risk. </p>
+<p>You are welcome to use these vidoes and images for your own warnings and training. Please do let us know when you do so, and if you have feedback we would love to hear it. </p>
+<p><br>
+<h1> Videos!</h1>
+  <a name="video"></a><br>
+  <em>Target for Behavior Change not Education</em>
+  Is the goal is to ensure that individuals respond appropriately, or to have them exhibit a correct understanding of the mechanics of the risk. If this makes no sense to you, then you probably have some expertise in computer security. Each of these have been tested in pilots, and shown to increase understanding of how to mitigate online risks. </p>
+<p>In this video we use the concept of different levels of access to luxury as the basis to communicate different levels of access based on account type. 
+<br>
+  Access control -<A href="http://www.youtube.com/watch?v=F9m6A4gWKX8"> http://www.youtube.com/watch?v=F9m6A4gWKX8</a>
+</p>
+<p>Here we use the metaphor of inviting an unexpected visitor into your home, as opposed to keeping them on the porch, to encourage individuals not to download potentially dangerous malware. <br>
+Keylogger - <A href="http://www.youtube.com/watch?v=6zHJoZqrCB0">http://www.youtube.com/watch?v=6zHJoZqrCB0</a></p>
+<p>This video makes phishing something that hits home. This video is unqiue in that is was used is a wide-scale study and illustrated significant increas in risk awareness in a population representative of elders in the US. 
+<br> 
+Phishing -<A href="http://www.youtube.com/watch?v=4ZQ9pFTCdy4"> http://www.youtube.com/watch?v=4ZQ9pFTCdy4</a>
+  <br> 
+  We are currently updating this video for the workplace. 
+</p>
+<p>Patching is a more complicated challenge. Here is our long-form video for patching. If you choose to shorten it, under the Creative Commons license, please send the shortened version back to host here. This is a link to the mp4.<br>
+<A href="HATS_Patching_Compressed.mp4">MP4 of the larger Patching Video</a> as the uncompressed version is quite large indeed. 
+<p>We  have a long-term agenda for creating and testing videos for risk awareness. Please contact <A href="http://www.ljean.com/">Jean Camp</A> or Prashanth Rajivan at Indiana University to work with us on this project.</p>
+<p>Future projects include vishing, spear phishing, whaling, smishing (call the IT hotline!); USBs (don't touch that port!), and various forms of malware including fake apps (verify!), and malicious scipts (we are working on customized NoScript for this project). </p>
+<p>We also have a demonstration project on creating stronger passwords and encouraing their use in specific contexts. Our video for that will follow our experimental evaluation. </p>
+<p><strong><a name="partner"></a>We Are Seeking Partners!</strong></p>
+<p>We are implementing a human-centered extension based on the concept of contexts: work, banking, play, etc. This extension provides warnings only when individuals are actually taking the risk. We combine user click traces, group histories and cyptographic analysis of certificates to identify risky situations. Our team is looking for a partner with whom we will customize and then test our DHS-funded open-source software. </p>
+<p>In addition, we have a prototype for encouraging the use of stronger passwords, and making it more difficult to comply with various social engineering attacks. If you would like ap review of this work, please contact <em>info@cognitivesecurity.net</em>.</p>
+<p>To reference please use either<br>
+L Jean Camp, &quot;<A href=
+        "http://papers.ssrn.com/sol3/papers.cfm?abstract_id=922735">Bringing Mental Models to Security,&quot;</a> IEEE Technology &amp; Society, Vol 28 (3) 37-46. <br>or<br>
+Vaibhav Garg, L Jean Camp and Kay Connelly,<a href="http://www.ljean.com/files/VideoVTest.pdf"><q> Risk Communication Design: Video vs. Text</q></a>, PETS (Vigo, Spain) 11-13 July 2012.</p>
+<p>&nbsp;</p>
+<p><br>
+  <br>
+  
+  <br>
+  
+  <br>
+</p>
+<p align="justify"> 
+    <br>
+ 
+    <br>
+</div>
+
+    <br>
+
+
+</body>
+</html>

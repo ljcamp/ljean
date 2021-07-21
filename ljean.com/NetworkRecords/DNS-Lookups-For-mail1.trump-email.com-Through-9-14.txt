@@ -1,0 +1,9 @@
+1422|AS15632|217.12.96.15|217.12.96.0/23|JSC "Alfa-Bank"|Moscow|Moskva|Russian Federation|RU
+1395|AS15632|217.12.97.15|217.12.96.0/23|JSC "Alfa-Bank"|Moscow|Moskva|Russian Federation|RU
+729|AS30710|167.73.110.8|167.73.96.0/20|Spectrum Health|Grand Rapids|Michigan|US|US
+2|AS3061|74.118.76.182|74.118.72.0/21|Peer to Peer|Rehoboth|Rhode Island|US|US
+1|AS40715|71.5.34.5|71.5.34.0/24|DataCenter.BZ, LLC|Worthington|Ohio|US|US
+1|AS32491|64.98.42.242|64.98.32.0/20|Tucows.com Co.|Toronto|Ontario|CA|CA
+1|AS32392|98.130.1.253|98.130.0.0/15|Ecommerce Corporation|Columbus|Ohio|US|US
+1|AS22611|205.134.252.154|205.134.252.0/24|InMotion Hosting|Los Angeles|California|US|US
+1|AS16509|54.206.26.93|54.206.0.0/17|Amazon.com, Inc.|Seattle|New South Wales|US|AU

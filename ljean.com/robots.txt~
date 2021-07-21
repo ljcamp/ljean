@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /files/ExecutiveEducation_4.ppt
+Disallow: /TPRC
+Disallow: /transfer

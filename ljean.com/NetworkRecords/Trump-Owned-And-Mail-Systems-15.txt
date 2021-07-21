@@ -1,0 +1,15 @@
+141.150.185.165|mail.trump.com
+192.154.117.36|mailhost.trumporg.com
+192.154.117.55|mailhost01.trumporg.com
+192.154.117.56|mailhost02.trumporg.com
+198.37.154.105|o2.email-campaigns.trumphotels.com
+216.248.192.120|mailer2.trumpuniversity.com
+216.248.192.67|mailer.trumpuniversity.com
+216.75.192.69|mail.thetrumpnetwork.com
+216.75.192.71|mail.trumpnetwork.com
+216.75.192.74|mail.thetrumpnetwork.com
+216.75.75.115|mailhost.trumporg.com
+64.250.226.33|mail.trumplv.com
+64.61.14.132|mailhost.trumporg.com
+66.11.204.243|webmail.trumpsoho.com
+66.216.133.29|mail1.trump-email.com

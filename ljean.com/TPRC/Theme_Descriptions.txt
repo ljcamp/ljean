@@ -1,0 +1,173 @@
+Major Themes of the  36th Research Conference on Communication, Information,  and Internet Policy
+
+Important Dates:
+•	Papers due: May 2, 2008
+•	Notification: May 30, 2008
+•	Conference: Friday, September 26, 2008 through Sunday, September 28
+
+1. Network Competition, Policy and Management
+2. Next Generation and all-IP Networks: Policy, Regulatory, Architectural and Societal Issues 
+3. Spectrum Management and Wireless Futures: Anywhere, Anytime Communications and its Implications
+4. Societal Issues, Universality, and Affordable Access in the 21st Century; ICTs for Development and Growth
+5. The Transformation and Future of Media in an Age of User- and Community-Produced Creativity
+6. The Transformation and Future of Intellectual Property and Digital Rights
+7. Privacy, Security, Identity and Trust
+8. Internet Governance and Institutional Strategies for Information Policy
+9. Other Emerging Topics
+
+
+*******************************************************************************
+1. Network Competition, Policy and Management
+For more than a decade legislatures and national regulatory authorities have been implementing policies designed to promote facilities-based competition made possible by rapid technological innovation. The hope was that one could eliminate heavy-handed, command and control regulation, because marketplace self-regulation would suffice. On the other hand, some countries are pursuing very different policies, for example, based on mandatory unbundling. The success or failure of these differing approaches has yet to be demonstrated conclusively.  
+As multiple platforms for voice and data services evolve, competition remains an issue. With migration to Internet Protocol-based networks, one network can handle many types of converged services. The versatility of a single network raises the regulatory stakes, because governments may have fewer discrete markets to consider what level of oversight to apply. Some market observers argue for even greater deregulation in light of increasingly robust competition among service providers. Others reject this assessment by emphasizing that most consumers acquire broadband access to the Internet via only two technologies provided by cable television and telephone company incumbents, and that increasingly versatile networks offering converged services can reduce the number of potential competitors. Such a dichotomy in perception drives vastly divergent views on the appropriate role of government regulation of the evolving network infrastructure and service markets. 
+This theme invites papers that provide insight into competition, the regulatory and policy issues of network infrastructure and services, the promise of multi-platform competition, and the implications for universal connectivity, pricing, sustainable competition, deployment, and innovation. Papers may be theoretical, empirical, domestic, international, or comparative.
+Topics of interest for this theme include (but are not limited to):
+-	The implications of convergence for competition (including VoIP and IPTV)
+-	Access, interconnection, and unbundling in a converged world
+-	The need for, and viability of, structural safeguards to promote fair competition
+-	Empirical studies on the actual extent of facilities-based and resale
+-	Competition and the factors that promote or retard competition
+-	Multi-platform competition: policies and implications for prices and services
+-	Whether, and how, governments should create incentives for investment in the next-generation infrastructure
+-	Regulation of interconnection of IP and circuit-switched networks
+-	Application of telecommunication regulation to new convergent services
+-	Pricing frameworks and analyses
+-	Deployment of broadband and other advanced infrastructure and services.
+*******************************************************************************
+2. Next Generation and all-IP Networks: Policy, Regulatory, Architectural and Societal Issues 
+The Internet is almost fifty years old and many of its core architectural features (e.g., end-to-end principle) and services (e.g., best-effort packet transport, BGP routing) are showing the strains of the need to support multimedia, high reliability/trusted services and to support the Internet’s role as basic communications infrastructure (i.e., the new “PSTN”). Network researchers and industry participants have been addressing these challenges through proposals to enhance the basic Internet architecture and through enhancements to network equipment and services that extend the capabilities of traditional best-effort IP packet transport. Key challenges include expanding the ability to handle traffic with differing tolerances for delay (e.g., supporting real-time voice and video as well as delay-tolerant data), strengthening network security and reliability (e.g., enabling trusted computing and communications, countering new cyberthreats such as SPAM spam and malware), and facilitating the transition to pervasive computing (e.g., supporting wired and wireless integration, policy-based routing, and new models of mobility). Advances in this area have come in the form of new capabilities in network components (e.g., traffic management/shaping-enabled routers), entry by new types of Internet providers (e.g., content-delivery network providers like Akamai), and through changes in business practices (e.g., evolution toward more complex carrier interconnection agreements).
+The focus of this theme is to invite examination of the commercial and policy implications of innovation in Internet architectures and protocols. Topics of interest for this theme include (but are not limited to):
+-	Next Generation Networks (NGN): market and regulatory challenges
+-	Analysis of network topologies and implications on various providers (core, edge, content, etc.)
+-	Sensor networks, RFID and the Internet of Things
+-	Implications of Pervasive/Ubiquitous computing and networks
+-	Performance and policy implications of overlay networks, including security, content-delivery, and routing overlays
+-	Enabling location-aware, context-aware networks and services
+-	Carrier-less, end-user owned infrastructure networks, including ad hoc/mesh networking
+-	Traffic shaping, policy-based routing and net neutrality
+-	Implications of streaming video and broadband traffic growth for network management, provisioning and policy
+-	P2P network economics and challenges
+-	Regulatory challenges of NGN
+-	Alternative architectures, management and policy implications
+-	Social networking and societal/policy implications
+-	Carrier interconnection, peering, and routing
+-	Market mechanisms for managing Internet resources such as IPv4 Internet addresses
+-	Empirical estimates of Internet traffic, network size, and performance metrics
+-	Social and political implications of next-generation testbeds such as GENI.
+*******************************************************************************
+3. Spectrum Management and Wireless Futures: Anywhere, Anytime Communications and its Implications 
+The growth and transformation of wireless technology and markets is driving international reforms in spectrum management practices and policies. The evolution of 3G/4G systems, the transition from Analog to Digital Television (DTV), the rise of municipal wireless, the needs of emergency responders, and the commercialization of technologies such as WiMAX, software radio, and smart antennas are forcing a re-thinking of legacy regulatory regimes for spectrum management around the globe. 
+Reformers in many countries have increasingly emphasized spectrum management based on market principles using models akin to property rights. At the same time, many questions remain as to how these property rights should be defined (for example, in regard to protection from interference and so as to facilitate more flexible use). Common elements among these emerging market-based spectrum management approaches typically include some combination of: initial allocation based on auctions wherever feasible; flexible and well defined spectrum rights maintained for long periods of time; and rights to transfer, trade, or lease spectrum in active secondary markets.
+In parallel with this evolution is an increased interest in improving the effectiveness of spectrum utilization. Methodologies of interest include collective use or sharing (either in license-exempt or in licensed spectrum), secondary use easements (overlays or underlays), and general liberalization of interference management techniques. The emergence of software-defined radio and cognitive radio offer the promise of greatly enhanced real-time optimization of spectrum resources.
+Meanwhile, there are profound unresolved questions regarding institutional arrangements. What is the most appropriate allocation of responsibilities between the government, the regulator, the courts, and the standards bodies? How can governments be encouraged to act efficiently in their own use of spectrum for public safety, defense, and in other areas? How best to reconcile the need for international coordination and harmonization with the need to accommodate emerging technologies enabling smart radio systems? What is needed to enable the emergence of robust secondary markets for spectrum? How should we estimate the value of spectrum in alternate uses and management regimes? How should we manage the difficult transition issues, including the pace of reform, the need to balance stakeholder interests, the allocation of windfall gains, and the mobilization of political support for appropriate reform?
+Topics of interest for this theme include (but are not limited to):
+-	Reform of spectrum licensing regimes to introduce market mechanisms, including flexible licensing and license-exempt spectrum management
+-	Managing the transition to a new spectrum management regime
+-	Access and use of government spectrum, including for defense and public safety
+-	New models for spectrum sharing and access management, including commons/open access/license-exempt use
+-	Policies to enable and case examples of experimentation
+-	Definition, specification, and enforcement of property rights in spectrum
+-	Spectrum auctions and other models for assigning spectrum
+-	Enabling and managing secondary markets for spectrum
+-	Interference management regimes and mechanisms, including overlay and underlay (low power) easements
+-	International harmonization versus flexibility, band planning 
+-	Cross-national analysis of market performance for wireless services
+-	Implications for markets and policy of commercializing new wireless technologies such as software-defined/cognitive radios, Ultra-wideband (UWB), WiMAX, or Sensor sensor networks
+-	Empirical estimates and models for valuing spectrum and interference rights
+-	Experience with new services in license-exempt and licensed bands.
+*******************************************************************************
+4. Societal Issues, Universality, and Affordable Access in the 21st Century
+ ICTs for Development and Growth
+Today there are some 1 billion Internet users and 3 billion cell phone users worldwide today, and growing rapidly. The ubiquitous presence of the Internet in developed countries, as well as the enormous growth that it continues to experience around the world, has aided commerce, the provision of government services, education, and entertainment, among other applications. Similarly the explosion of cell phone use, particularly in developing countries regions like India,  and China, and Africa, is well on its way to making it the mass communications device of choice in these countries. The estimated number of cell phone users in China and India combined already vastly exceeds the number of such users mobile subscribers in the US, and China is poised to have the largest population online by 2008.  
+Information and communication technologies (ICTs) have positive impacts on the economic, social, and political development of a country, region, or community. Today governments around the world are attempting to realize the benefits of ICTs and are making efforts to ensure widespread access to these networks and applications. These initiatives can transcend levels of government, ranging from national initiatives to local programs. Despite these efforts, the so- called digital divide remains a inter- and intra-national challenge.
+Beyond the obvious challenges like funding, given that the benefits of the ICT adoption and use may be disproportionate to the investments or may flow to different stakeholders, policy studies are important for determining appropriate regulations, policies, and levels of public and private investment.  
+Some governments are doing promoting access this by promoting access in schools, libraries, and communal facilities (e.g. tele-centers). Various mechanisms are used to finance these initiatives. Some have done so through universal service programs that use public funds to catalyze private investments that are not commercially viable on their own. Others require the incumbent to expand the network to certain locations. Municipal networking initiatives are an important class of public sector initiatives. Numerous examples can now be found in the US, Canada and other developed and developing countries. 
+The private sector has also taken the lead in providing access to new information networks, including the Internet, in public places such as airports, cyber-cafes and coffee shops, and fast-food restaurants. WiFi hotspots can now be found in many such public spaces.
+Civil society is not convinced that the government or the private sector will ever fund the required ICT initiatives in high cost areas, or to reach very low income groups, for lack of funds or lack of commercial value. So NGOs are stepping up to fill the void with creative solutions to the national and international digital divide problems. 
+Other dimensions of the digital divide beyond connectivity are also important, including computers (devices), content, and human capacity.  Nonetheless, connectivity is not the only issue. In many communities there is also a need for training and content development that would allow them to fully take advantage of these technologies. Bridging the digital divide entails improvements in awareness, availability, accessibility and affordability of the ICTs.  And income ultimately limits the extent to which the least favored population groups can afford available services. Affordability is especially key when we consider distributive and equity issues.  There is therefore a need, especially in developing regions, to study the demand for ICTs and patterns of use at the “Bottom of the Pyramid” (i.e. among users with a daily income of $2 or less).
+Topics of interest for this theme include (but are not limited to):
+-	ICT initiatives for economic, social, and political empowerment 
+-	Mobile applications, such as m-banking and m-government 
+-	Municipal networks 
+-	Community-based networks 
+-	Technologies for social networking 
+-	Funding sources and mechanisms 
+-	Universal service mechanisms – thinking beyond landlines to mobiles devices and Internet access
+-	The economic rationale for public sector support 
+-	User studies 
+-	Government, private sector and NGOs roles in addressing the digital divide issues 
+-	Assessments of the experiences with public, private, and NGO initiatives 
+-	The role of international organizations 
+-	Social implications of these technologies ICTs 
+-	Evidence of the impact of ICT on development.
+*******************************************************************************
+ 5. The Transformation and Future of Media in an Age of User- and Community-Produced Creativity
+Digital technology and the Internet are transforming the platforms for delivering news, entertainment and other information in significant ways. Today, individual users are increasingly becoming creators: they can share their perspectives with one another via blogs; inexpensively remix traditional media into individual visions; and collaborate with one another via wikis. This wave of creative works is distributed broadly often over new peer-to-peer and many-to-many distribution systems. In addition, users have more control over what they watch and when they watch it through "on demand" technologies such as YouTube, MySpace, and other Internet-based distribution platforms.
+In light of these developments and the continued growth of satellite, cable, and other delivery platforms, traditional public policy responses to the mass media, including public access television, restrictions on industry concentration, content restrictions and programming obligations, and a protective stance toward local broadcasters, are all being re-examined. These changes are forcing policymakers to wrestle with questions of whether, and to what extent, the classic policy concerns are still relevant, and how to create regulatory structures that ensure that citizens will be able to take advantage of the opportunities created by these new technologies.
+Topics of interest for this theme include (but are not limited to):
+-	 The decreasing editorial role of programmers and the question of signals consumers follow regarding what to watch, read, and listen to
+-	Comparing social networks before and after new media information flows 
+-	The implications of user-produced creative works and commentary for traditional media producers, the public and creators, themselves
+-	Whether and how vertical integration between major developers of video programming and distribution platforms affect the marketplace of ideas
+-	How current regulations must adapt to the increasing variety and interchangeability of sources of content
+-	Old media outlets (e.g., local broadcasters) use of new media opportunities (e.g., blogs) 
+-	How the new media environment transforms the delivery of news and information to the public
+-	Assessments of the dynamic relationships between old and new media, including the issues of how to assess competition between old and new media
+-	Costs and benefits of public participation in the production and dissemination of news and entertainment
+-	User characteristics that predict involvement in the new emerging participatory activities
+-	Whether there is equality in access to the new types of tools and resources
+-	Whether we are seeing a diversity of views represented in new conversations and content creation
+-	New media, old media, and advocacy.
+*******************************************************************************
+6. The Transformation and Future of Intellectual Property and Digital Rights
+The modern information economy thrives with a proper balance of rewarding innovation and creativity as well as promoting widespread public access. Technological innovations that allow digital reproduction, storage, and transmission of information continue to reshape this balance. This transformation creates new challenges for regulators, firms, and individuals. This session seeks empirical or theoretical papers exploring the complexities in adapting traditional intellectual property models to digital works, technologies, and networks.  
+Issues of particular interest include the concepts of digital rights management and fair use in a peer-to-peer networked environment; the breadth and scope of safe harbor liability exemptions for Internet Service Providers; legal and economic status of open-source software; regulatory or legal models for encouraging innovation and creativity; the effect of technology on the economic incentives of intellectual property rights; the impact of intellectual property rights on public participation in the production and dissemination of news and entertainment via social networking, blogs and other forums; the Digital Millennium Copyright Act and other legislation; software and e-commerce patents; international and trade issues; and the relationship between intellectual property and related doctrines of contract and antitrust. 
+Like all areas within TPRC, we welcome research from any discipline, as well as interdisciplinary or multidisciplinary approaches.
+Topics of interest for this theme include (but are not limited to):
+-	Copyrights, patents and trademarks
+-	Trade Secrets and practices
+-	Metadata
+-	Ownership of social information and metadata
+-	Economics of owned content: use as complement, substitute, loss or revenue stream
+-	Open ownership models for code and content
+-	Technological controls and digital rights management
+-	Filtering technologies 
+-	Alternative specification of digital rights
+-	Ownership and allocation of location information.
+*******************************************************************************
+7. Privacy, Security, Identity and Trust
+That privacy and trust are contested concepts has long been recognized. As the Internet and telecommunications become ever more deeply entwined with economics, enjoyment, politics and employment, security and identity have also become more fluid. Identification in a digital world is made more problematic by issues of liability, autonomy, and community. The capabilities of humans to remember numbers and facts for self-authentication conflict with the need for security that cannot be trivially defeated by a powerful computer. As identity and security become more complex, privacy cannot be simplified. 
+Technology continues to deliver new generations of devices, which raise novel policy and management questions. Pervasive computing moves from the laboratory to the home, as seniors citizens embrace home-based sensor networks which can function as loving daughter or Big Brother.  How will access to these private recordings data and private recordings in public places be regulated? Similarly, spread of Radio Frequency Identification (RFID) devices as well as location services in wireless telephony and even public transportation will likely mean that where we have been at any time will can be known with great precision. Simultaneously, increases in processing power and policy-based routing enable online service providers to develop new systems, in directions that will allow them to control what customers do to an unprecedented degree. 
+Current laws have proven insufficient to deal with phishing, pharming, spam, identity theft, criminal identity theft and other emerging threats. What additional concerns are raised by the borderless nature of cyber-space, the international nature of these threats and the ease with which the operations of these cyber-criminals can be moved from one country to another?
+The potential for surveillance that has been predicted in theory arrives in practice. The American presidential campaign halts for a day as Senators fight to maintain the requirement for warrants for digital searches. European, Asian and American concepts of free speech, privacy, and autonomy conflict and co-exist in the virtual realm. This theme of the conference invites domestic, international or comparative work. 
+Topics of interest for this theme include (but are not limited to):
+-	Location privacy, location as identification
+-	Security, vulnerabilities and authentication
+-	Identity, including identity theft
+-	National, international and cooperative private efforts to address international networked criminal activity
+-	Data protection
+-	Governmental and private sector surveillance, including their interactions
+-	Surveillance in public places
+-	Social networks and information exposure
+-	Cultural aspects of trust and privacy, and the implications for a networked world
+-	Avatar rights or liability: identity, taxation and security in games
+-	Liability for security failures and losses
+-	Disclosure requirements for security failures and data loss
+-	Spam as an international economic, criminal, or technical activity.
+*******************************************************************************
+8. Internet Governance and Institutional Strategies for Information Policy
+For many years, the Internet was envisioned by many of its pioneers as a space beyond the reach of communications policy and regulation.  Nonetheless, the Internet was governed by collective decisions and numerous informal processes of self-organization.  During the past decade, more formal means of governing technical, economic, and social aspects of the Internet, such as ICANN, have emerged in addition to business associations, international organizations, and a plethora of civic groups with an interest in Internet governance.  The global nature of the Internet and the increasingly complicated formal and informal governance mechanisms raise interesting important research questions, ranging from which aspects of the Internet should be governed collectively to the design of most appropriate instruments and institutions and the experiences with different approaches.  Moreover, we are interested in papers addressing institutional strategies for information policy.
+Topics of interest for this theme include (but are not limited to):
+-	Comparative governance, across institutions
+-	Analyses of international internet governance 
+-	Analyses of non-traditional governance mechanisms (e.g. RTBH, ICANN)
+-	Governance by norm as opposed to institution
+-	Political economy of Internet governance
+-	Virtual crime and punishment
+-	Cases of jurisdictional disputes (e.g., speech, property, propriety)
+-	Data havens and data flows
+-	In-depth national studies
+-	Economic models of governance proposals and modes
+-	Tariffs, peering, and traffic models applied to governance.
+9. Other Emerging Topics
+Since 1973, academic insights and policy innovations for what has become the information economy occur at TPRC.   Many of the ideas found in early inchoate form at TPRC have grown to become their own conferences or even fields of study:  auctioning spectrum, Internet commerce, and even data protection. Obviously none of these initially fit neatly into a theme. The themes above are meant to guide authors, not to exclude ideas.  Breakthrough scholarship belongs at TPRC.

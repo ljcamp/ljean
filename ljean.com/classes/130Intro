@@ -1,0 +1,182 @@
+<html><head>
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=iso-8859-1"><title>Introduction to Security Informatics</title>
+
+<meta name="GENERATOR" content="StarOffice/5.2 (Linux)">
+<meta name="CREATED" content="20010910;8563900">
+<meta name="CHANGEDBY" content=" ">
+<meta name="CHANGED" content="20010910;9091700">
+<meta http-equiv="CONTENT-TYPE" content="text/html; charset=iso-8859-1"><title>
+ I525 Economics of Security  Prospectus</title>
+ <base HREF="http://www.ljean.com/">
+<link 
+	rel="stylesheet"
+	href="http://www.ljean.com/sub.css"
+	type="text/css">
+
+
+
+</head>
+
+
+<body>
+
+<div id="container">
+<p id="nav">
+
+<a class="nav" href="index.html">Home</a>&nbsp;&nbsp;&nbsp;
+
+<a class="nav" href="research.html">Research</a>&nbsp;&nbsp;&nbsp;
+
+<a class="nav" href="teaching.html">Teaching</a>&nbsp;&nbsp;&nbsp;
+
+<a class="nav" href="students.html">Students</a>&nbsp;&nbsp;&nbsp;
+
+<a class="nav" href="netTrust.html">Net Trust</a>&nbsp;&nbsp;&nbsp;
+
+<a class="nav" href="security.html">Security</a>&nbsp;&nbsp;&nbsp;
+
+<a class="nav" href="ecivil.html">E-Civil Liberties</a>&nbsp;&nbsp;&nbsp;
+</div>
+</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<br>
+
+<br>
+<h1>Introduction to Security Informatics</h1>
+<center><em>
+<A href="index.html">L Jean Camp</a><br></em>
+Scheduled for Fall 2007<br>
+Wednesdays 4:00 - 5:15 <br>
+Informatics Room 107<br>
+
+<br>
+<em>Office Hours</eM><br>
+Informatics Building 200<br>
+Mondays 3-5pm<br>
+Wednesdays 2-4pm<br>
+</center>
+&nbsp;
+<div class="noteBox"> Grading Guidelines</div>
+<p>
+<table width ="80%" summary="Grading Percentages" border="0" align="center">
+
+<tr>
+<td>  40%</td>
+
+<td> class participation</td>
+<td width = "50%">in class and on on-course participation are both counted.</td>
+</tr>
+<tr>
+<td width>60%</td>
+<td>weekly essays</td>
+
+<td>due every week</td>
+
+</tr>
+
+</table>
+<br><br>
+Participation in the classroom and in the discussion area in On-Course are both credited. If you are more comfortable speaking than writing, or more comfortable writing as opposed to speaking, you may choose only one. Participation should illustrate that any assigned reading has been complete, or when there are no readings that the course presentation was carefully watched. Participation professional in tone  will not be counted as a positive contribution. To be perfectly clear, any student who diminishes the contributions of less advanced students will find his or her own grade suffers.
+<br><br>
+In terms of the weekly writing, each week there is a 300 word commentary on the lecture. The commentary may be a summary, or a comment, or you may ask a question, or you may connect the lecture to some current event. The commentary must illustrate awareness (to be passable) and understanding (to be excellent) of the lecture materials. Grammar and spelling count.
+<p>&nbsp;</p>
+<a NAME="sessions"></a>
+<div class="noteBox">Schedules</div class="noteBox">
+Notice all of these sessions cannot fit into one semester. However, these examples of past sessions illustrate the possible diversity of the lecture
+<p>&nbsp;</p>
+<h4> Peer Production of Security</h4> 
+<center><em>
+Jean Camp, Associate Professor of Informatics
+</center></em>
+The best deterrant to crime is public view. Are you ever in a crowd on-line? How can a group of naive people create reliable information about security?
+
+
+<h4> Ubiquitous Security</h4> 
+<center><em> 
+Professor Kay Connelly, Associate Professor, Computer Science.
+</center></em>
+As computers become as ubiquitous as lighting, can privacy be maintained?
+
+
+<h4>Cryptography</h4> 
+<center><em>
+Steve Myers, Assistant Professor, Informatics.
+</center></em>
+The mastery of mathematics meant millions of lives saved in WW II. Today it means billions of dollars in Internet commerce. 
+
+
+<h4> Security in Practice</h4>
+<center><em>
+Mark Bruhn, Chief IT Security and Policy Officer, IU.
+</center></em>
+Security in theory is different from in practice. What does it mean to secure a network? How do network managers view security, and what are the real-world threats likely to be faced by security managers. 
+
+<!--------------------
+<h4>Nov. 21 Happy Thanksgiving</h4> 
+Thanksgiving is a celebration of coming together in the third English settlement in the Americas. The <A href=http://www.nps.gov/fora/>first English colony</a> was destroyed during warfare with the local people and the second defended itself fiercely (<A href=http://www.apva.org/history/index.html> Jamestown</a>). We celebrate the third English colony, where cooperation was the initial rule of the day.  Like the network today, both cooperation and the need for security played critical roles in early settlement of America.
+--------------------!>
+
+<h4> Malware on the Network</h4> 
+<center><em>
+Raquel Hill,  Assistant  Professor, Informatics and Computer Science.
+</center></em>
+Connectivity is exposure. Network risks include denial of service, masquerade attacks, and directing hacking assaults. This session will focus on understanding the threats created on and in the network. 
+
+<h4> Forensic Security</h4> 
+<center><em>
+<A href= http://www.speedacm.org/~drwamp01>Doug Wampler</a>
+</center></em>
+How do you pick up a digital trail? What data do we leave behind on our drives, and clicks, and passages through virtual space?
+<p>&nbsp;</p>
+<h4>Net Trust and Security</h4> 
+<center><em>
+Brandon Stephens, Graduate Researcher
+</center></em>
+Stephens will provide an overview of Net Trust as an example of the security research that occurs at IU. He will describe the spring break course assignment, which is also available on OnCourse.
+
+<h4>Security Protocols</h4> 
+<center><em>
+L Jean Camp,  Associate Professor, Informatics. 
+</center></em>
+What is privacy? What is security? How do they differ? Intorduction to the basic vocabulary of security and the IU security curriculum.
+
+<h4>Privacy in Practice</h4>
+<center><em> 
+Camilo Viecco, Doctoral Reseacher
+</center></em>
+What resources are available to give students privacy in daily practice? What threats do Tor, PGP, and proxies mitigate?
+
+
+<h4>Malware on the Network</h4> 
+<center><em>
+Raquel Hill,  Assistant  Professor, Informatics and Computer Science.
+</center></em>
+Connectivity is exposure. Network risks include denial of service, masquerade attacks, and directing hacking assaults. This session will focus on understanding the threats created on and in the network. 
+
+
+<h4>Ubiquitous Security</h4> 
+<center><em> 
+Professor Kay Connelly, Associate Professor, Computer Science.
+</center></em>
+As computers become as ubiquitous as lighting, can privacy be maintained?
+
+<h4>Wireless in Theory and Practice</h4> 
+<center><em>
+Matt Hottell, Lecturer and Researcher in Informatics
+</center></em>
+Economics and the study of risks indicates that risk, education, and ability should predict use of wireless encryption at home. But does the data support the theory?
+ 
+
+<h4>Usable Security</h4>
+<center><em>
+Tonya Stroman, Graduate Researcher
+</center></em>
+Usability and human interaction are a core part of the Informatics learning experinece.For students who choose Informatics as a major as well as security as a minor, this will provide a window into your future educational experience. 
+
+
+<center><em>
+</body></html>

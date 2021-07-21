@@ -1,0 +1,155 @@
+<html><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252"><title> Risk-Based Characterization of Network Vulnerability</title>
+
+<meta name="resource-type" content="document">
+<meta name="author" content="L. Jean Camp, Linda Jean Camp">
+<meta name="keywords" content="electornic commerce, privacy, speech, information policy, cryptography, electronic civil liberties">
+<meta name="distribution" content="global">
+<meta name="copyright" content="you are free to use, but not to charge for use, also include a reference when using"> 
+
+</head><body bgcolor="#ffffff">
+<h1>Risk-Based Characterization of Network Vulnerability</h1>
+Laura Painton*, Timothy Gaylor, Jean Camp, Greg Wyss, and Cynthia Phillips<br>
+Sandia National Laboratories<br>
+Albuquerque NM 87185<br>
+<font size="-2">*contact Laura Painton, 505-844-8093,<br>lapaint@sandia.gov</font>
+
+<p>
+<font face="CG Times">
+<strong><u>Introduction.</u>
+</strong>This document summarizes a research activity currently underway
+ at Sandia National Laboratories. The purpose of this research effort is
+ to extend Probabilistic Risk Analysis (PRA) methods to network security
+ and vulnerability analysis.  PRA methods are uniquely able to measure 
+the importance of particular components or events to overall risk.  
+Thus, we are hopeful that PRA methods, combined with a systematic 
+modeling approach, can provide insights that can help design networks 
+which are more inherently resistant to known methods of attack.
+</font></p><p><font face="CG Times">
+<strong><u>Technical Problem.</u></strong>Current network security 
+approaches require "friendly adversaries" to identify and mitigate 
+system vulnerabilities before "real" adversaries can find and exploit 
+them.  Realistically, this approach is an art form typically practiced 
+on an <i>ad hoc</i> basis. It relies heavily on the network security 
+analyst's expertise to find potential network vulnerabilities and 
+understand all of the possible ramifications that might occur should the
+ vulnerability be exploited.  Currently there is no disciplined 
+systematic analysis approach that can be used by persons with limited 
+expertise in risk assessment or vulnerability analysis to (1) examine 
+how an adversary might be able to exploit identified weaknesses in order
+ to perform undesirable activities, and (2) assess the universe of 
+undesirable activities that an adversary could accomplish given that 
+they were able to enter the network using an identified weakness.</font></p><p><font face="CG Times">
+<strong><u>Technical Approach.</u></strong>&nbsp;&nbsp;Historically 
+there has been minimal cross-pollination between the areas of 
+vulnerability assessment (which includes risk and reliability analysis 
+techniques such as probabilistic risk assessment, or PRA, as well as 
+vital area analysis) and network assessment. Over the past few years, 
+research at Sandia and elsewhere has demonstrated that PRA techniques 
+can be used to help understand the potential for failure in various 
+types of information system components.  Within the last year, these 
+methods have also been proven capable of modeling connectivity, classes 
+of network traffic, and the provision of network services for both 
+hierarchical and non-hierarchical networks.  Our current research effort
+ involves extending these demonstrated PRA methods to enhance current 
+network security analysis techniques.  The objective of the project is 
+to develop a method by which a network analyst with minimal formal PRA 
+training could assemble a valid risk model.  This would allow them to 
+assess the vulnerability of their network to known attack methods that 
+had been systematically cataloged by experts and incorporated into PRA 
+sub-models.
+</font></p><p><font face="CG Times">
+The project will make use of a three-pronged methodology.  The first 
+prong of our approach will seek to categorize known vulnerabilities and 
+attack methods according to the types of network components that are 
+susceptible and the <i>immediate</i> damage that can be done to the 
+information system as a result of this compromise.  We will then select 
+which risk assessment methods will be the most appropriate for the types
+ of systems and scenarios to be modeled, and seek to capture these 
+vulnerabilities for appropriate classes of network components in small 
+risk sub-models in much the same way as was done under the modular fault
+ tree project in the mid-1980s for generic classes of nuclear reactor 
+components and, as has been done more recently under another study, for 
+typical failure modes in certain classes of network components. This set
+ of risk sub-models will represent a systematic cataloging of 
+vulnerabilities and attack methods, will serve as a data repository 
+created by both risk and networking experts that can be used later by 
+network analysts with minimal formal PRA training to assemble a valid 
+risk model.&nbsp;&nbsp;<u><b>Issues:</b></u> The dynamic nature of 
+certain processes and vulnerabilities within information systems may 
+make it difficult to adequately characterize some classes of 
+vulnerabilities.  This is especially true for some types of attacks 
+against cryptographically protected systems.
+</font></p><p><font face="CG Times">
+The second prong of our approach will work to develop the thought 
+processes and modeling methodologies that are required to examine how an
+ adversary might be able to gain access to either data or services that 
+need to be protected. This will be based on a risk assessment 
+methodology such as influence diagrams or fault tree analysis which can 
+systematically and deductively "reach out" from the identified 
+undesirable event to determine its immediate causes, its intermediate 
+causes, and eventually, its ultimate causes.  The method would be 
+expected to be capable of considering natural threats (<i>e.g.</i>, flooding of equipment facilities) and normal equipment failures as well as person-made threats (<i>e.g.</i>,
+ adversary attacks), from on-site and off-site sources, both 
+independently and in combination with anthropogenic threats, because 
+each might alter the probability of success during an attack.  The 
+objective of this method would be to allow a network analyst to make 
+direct and rapid use of the expert-developed sub-models described 
+previously to create a credible risk model to enumerate the various 
+types of attacks that could be launched against the data or service that
+ we are seeking to protect.&nbsp;&nbsp;<u><b>Issues:</b></u> The use of 
+deductive models for large systems can produce very large risk models 
+that are difficult to solve or gain insights from.  This can be 
+mitigated by the use of surrogates for classes or groups of components.
+</font></p><p><font face="CG Times">
+The third prong of our approach will develop methods and thought 
+processes to help an analyst understand the universe of undesirable 
+activities that an adversary could accomplish given that they were able 
+to enter the network using an identified weakness.  In other words, an 
+adversary may originally try to enter our information system with one 
+goal in mind.  Once inside the system, however, he may decide to "wander
+ around" and see what else he can find.  Where he can wander and what he
+ can get into will differ depending upon how he initially entered the 
+system.  On the other hand, gaining some low level of access may serve 
+as a stepping stone in an attack scenario for an intruder to be able to 
+gain some higher privileges and continue the attack. Our method to gain 
+understanding of the possible ramifications of a security breach will be
+ based on a risk assessment methodology that supports inductive 
+reasoning such as event trees or influence diagrams (note that both of 
+these methods easily interface with the deductive methods that are to be
+ used for the second prong of our approach).  Once again, the objective 
+is to allow a network analyst to create a credible risk model without 
+having to become a risk assessment expert.&nbsp;&nbsp;<u><b>Issues:</b></u>
+ These models seem to be more closely dependent on the individual system
+ being modeled than the deductive models described above, so it is 
+unclear whether the expert-developed sub-models will be of much 
+assistance in this area.  However, automated security gaming techniques 
+may provide an additional solution avenue in this area.  Also, this 
+problem may approach combinatorial expansion, so we may need to either 
+find or develop new mathematical algorithms to reduce this expansion to a
+ manageable level.
+</font></p><p><font face="CG Times">
+<strong><u>Expected Results.</u></strong>&nbsp;&nbsp;This project will 
+produce three types of results: (1) Risk sub-models (to represent a 
+systematic cataloging of vulnerabilities and attack methods) for the 
+generic classes of network components, and a more complete demonstration
+ for a few specific components and a detailed methodology for generating
+ sub-models for additional components; (2) A feasibility assessment and a
+ detailed modeling methodology for both the deductive risk problem and 
+the inductive risk problem described previously, along with a series of 
+solved demonstration problems that exercise and illuminate the methods; 
+and (3) A plan for automating the methodologies developed under the 
+project, including high-level software requirements for a 
+production-oriented analysis tool, and an examination of existing risk 
+assessment software for compatibility with the methods developed for 
+this project (specialized prototype or proof-of-concept software may be 
+developed under this project to assist in the solution of the 
+demonstration problems, but the development of production software is 
+beyond the scope of this project).<br></font><br><br><br></p>
+
+<p>
+    Reference as  L. Painton, T. Gaylor, L. Jean Camp, C. Phillips, G. Wyss, <q>Risk-Based Characterization of Network Vulnerability</q> Proceedings of the CERT Information Survivability Workshop, 12 - 13 February 1997 (San Diego, CA) pp. 62-64.
+
+</body>
+
+</html>

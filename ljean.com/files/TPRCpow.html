@@ -1,0 +1,83 @@
+<html>
+<head>
+<title>Beyond Consent: Implications of Ubicomp for Privacy  </title>
+<base href="http://www.ljean.com" />  
+<link href="sub.css" type="text/css" rel="stylesheet">
+
+</head>
+
+<body><div id="container">
+  <div id="title"></div>
+<p id="nav">
+<a class="nav" href="http://www.ljean.com/index.html">Home</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/contact.html">Contact</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/bio.html">Bio</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/cv.html">CV</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/research.html">Research</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/teaching.html">Teaching</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/students.html">Students</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/design.html">Design for Values</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/security.html">Security</a>&nbsp;&nbsp;&nbsp;
+<a class="nav" href="http://www.ljean.com/ecivil.html">E-Civil Liberties</a>&nbsp;&nbsp;&nbsp;
+</p>
+
+<P>&nbsp;</p>
+<P>&nbsp;</p>
+<P>&nbsp;</p>
+<P>&nbsp;</p>
+
+<h1>Proof of Work {cannot, can, does currently} Work</h1>
+
+<table align="center"  cellpadding=0 width = 85% cellspacing=4 border=0>
+<tr>
+
+<td><b><u>L Jean Camp </u></b></td>
+<td><b><u>Debin Liu</u></b></td>
+</tr>
+
+<tr>
+<td>ljean@ljean.com</td>
+<td>deliu@indiana.edu</td>
+</tr>
+
+<tr>
+<td>Associate Professor</td>
+<td>Doctoral Student</td>
+</tr>
+
+<tr>
+<td colspan=2 align="CENTER">
+901 E 10th St
+School of Informatics<br>
+Indiana University<br>
+Bloomington, IN <br>
+</td>
+</tr>
+</table>
+
+<h2>Abstract</h2>
+
+The core enabling factor of spam is that spam is cheap to send. Spam is so profitable that estimates of the percentage of email as spam ranges from 56% [Brightmail, 04] in 2003 to 80% [Ciphertrust, 2005] in 2006. Spam is a malicious network activity enabled by the otherwise virtuous cycle of network expansion. As the network expands, spam becomes more profitable, and thus increases. 
+A proposed economic and cryptographic solution to the profitability of spam is proof of work. Proof of work comprises a set of proposals, in which email senders would be required to pay money, perform a resource [Dwork and Noar, 1993], perform a series of memory operations, [Dwork, Goldberg and Naor, 2003], or post a bond, [Krihsamurthy and Blackmond, 2004] for each message sent. Thus the cost to send an email or initiate a connection is usually expressed in seconds as a measure of processing power or memory operations. 
+<p>The design goal of POW is to deter spam by making it unprofitable to send a large number of messages, while enabling legitimate users to send small numbers of messages. Therefore, POW reverses the economics of email, to prevent spam. Yet by reversing the economics of email, POW can significantly hinder senders of legitimate email. This cost to legitimate email is exactly the reason that the first economic analysis illustrated that POW would not work. 
+The argument was that any work requirement sufficient to prevent spammers from profiting is so high that it would harm senders of legitimate emails, especially on low power devices. [Laurie and Clayton, 2004] The basic argument underlying that analysis is that legitimate and malicious email producers have very different production costs. Legitimate senders of email purchase equipment and connectivity on the open market. Spammers have at their disposal large networks of subverted machines that provide automated networked platforms for mass production of illegal activities. The networks of subverted machines are called botnets. Botnets available for rent are as large as 10,000. Botnets are the criminal leveraging of peer production. 
+<p>
+Recently, using a simple model of reputation systems, the authors illustrated that proof of work can work when combined with the currently used commercial anti-spam technologies. Our proof of concept illustrates the simple observation that email characteristics, particularly the characteristics of the sender, can be used to offer varying POW costs to different senders. This work an expansion of that initial analysis to include not only a sensitivity analysis, but also an analysis about the definition of Proof of Work. 
+An analytic understanding of proof of work is particularly timely, as Microsoft is embedding a proof of work mechanism in its next generation of products. [Abadi et al, 2003] Because there are public reliable data on the diffusion of Microsoft products, in particular the market share, this moment in time provides a window to produce hypotheses that will be effectively tested by the uncontrolled experiment of Microsoft diffusion of proof of work technologies in the future.  
+<p>
+The paper work builds upon our previous proof of concept to produce three new and significant results. 
+The first is a sensitivity analysis of the basic POW model previously presented. What duration of punishment is required? How many people must participate?
+The second is an analysis of the nature of Proof of Work both as functional money (token versus notational) and as mechanisms in practice. For example, in this paper we argue that POW effectively also already exist in the form of reverse Turing tests and response requirements.
+The final expansion is one of scaling and costs. How large a reputation system would be necessary, or can this be implemented in a distributed manner? The cost issue can begin to address the question of how much is spam prevention worth, and how much POW costs. The possible cost would have to be presented as range of possible values, not an absolute. 
+
+<h2>References</h2>
+<p>M. Abadi, A. Birrell, M. Burrows, F. Dabek, and T. Wobber, <q>Bankable Postage for Network Services</q>. 2003. In LNCS: Lecture Notes in Computer Science, Springer-Verlag, Berlin, DE.
+<p>
+Brightmail Inc., <q>Spam Percentages and Spam Categories</q>, 2004. White Paper on Spam.
+<p>CipherTrust Inc., <q>The Next-Generation Reputation System</q>, 2005. White Paper on Spam, Mountain View, CA.
+<p>C. Dwork, A. Goldberg, and M. Naor, <q>On Memory-Bound Functions for Fighting Spam</q>, 2004. In D. Boneh (Ed.): Proceedings of Crypto 2003, Springer, Berlin, DE, pp. 426-444.
+<p>C. Dwork and M. Naor, </q>Pricing via Processing or Combating Junk Mail<q>, 1992. In E. F. Brick (Ed.): Advances in Cryptology-CRYPTO 1992, Springer-Verlag, pp. 139-147.
+<p>B. Laurie and R. Clayton, <q>Proof of Work Proves Not to Work</q>, 2004. The Third Annual Workshop on Economics and Information Security (WEIS04).<p><p>
+
+<p>&nbsp;</p>
+<H2>Full Paper Posted Soon</h2>

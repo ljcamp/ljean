@@ -1,0 +1,4 @@
+AuthName "Control Panel - Restricted Access"
+AuthType Basic
+AuthUserFile /home/YearWeb/ljean/public_html/cpanel/.htpasswd
+require valid-user
