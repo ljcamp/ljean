@@ -18,6 +18,17 @@
 <br>
 </em>
 	
+<em><br>Classes for the 2020-2021 academic year<br></em></strong>
+<br>Introduction to Mathematical Foundations of Cryptography  
+<br> Spring<br>
+A course that starts with substitution ciphers and ends with elliptic curves. If you learn nothing other than not to write your own, then you have learned the most critical rule of crypto.
+<br>
+<br>
+<br>Economics of Security
+<br> Fall<br>
+Economics of security and privacy focuses on incentives and behaviors. Only three weeks of cryptocurrency with a focus on its uses.
+<br>
+<br>
     <em><br>Classes for the 2019-2020 academic year<br></em></strong>
 <A href="http://www.ljean.com/classes/19_20/330_Camp_syllabus.html">Legal &amp; Social Informatics of Security. </a>
 <br> Spring<br>
