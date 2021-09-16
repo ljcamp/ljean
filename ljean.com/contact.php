@@ -65,7 +65,7 @@ My work on IPv6 diffusion, botnet modeling, and Ambient Trust are my own and my 
 <A href=http://indiana.edu>      Indiana University</a><br><br>
     <br>
     Founding Program Director<br>
-<A href=http://security.informatics.indiana.edu> Masters of Science in Security Informatics<a/><br>
+<A href="https://cs.indiana.edu/programs/ms-secure-computing.html"> Masters of Science in Secure Computing<a/><br>
       Indiana University</a>
 <br>
 
