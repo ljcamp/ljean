@@ -46,38 +46,44 @@
      <br>
    
 
-<A href="http://homes.soic.indiana.edu/dikim/">DongInn Kim</a> became a member of
+
+     <A href="http://homes.soic.indiana.edu/dikim/">DongInn Kim</a> became a member of
    the research group in summer 2017. His background is in computer
    networking. He is our new lead on the CUTS CertProbe and the
-   CertWarehouse to more effectively share our data. His current focus is on diverse, trustworthy AI in security.
+   CertWarehouse to more effectively share our data. His current focus is on diverse, trustworthy AI in security comparing local and global routing data.
 
 <br>
 <br>
-<A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is a master of human subjects 
+<A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is a master of human subjects
 experiments, data analysis, and insightful design in response to the findings.
 
 <br>
 <br>
 
-<A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneer contributions to the 
+<A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneer contributions to the
 emerging standards for securing the IoT, particularly MUD and SBoM.
+
+<br>
+<br>
 
 <A
     href="https://www.linkedin.com/in/shakthidhar-gopavaram-ba576035">Shakthidhar
-    Gopavaram</a> is evaluating human risk taking, including comparive 
-    global analyses of risk-taking on the web-based risk-taking and local analyses of risk-taking 
-    with embedded systems in the home. 
+    Gopavaram</a> is evaluating human risk taking, including comparive
+    global analyses of risk-taking on the web-based risk-taking and local analyses of risk-taking
+    with embedded systems in the home.
    <br>
 <br>
     <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> is
     a doctoral student who previously worked with me on human-centered
     design. His particular focus is cognitive alignment between human decision-making and
     the demands of security interactions. He is moving into accessible
-    design with Sameer Patil. 
+    design with Sameer Patil.
     <br>
 <br>
-<A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expands our 
+CI Fellow and postdoctoral scholar <A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expands our
 focus to the most vulnerable on the Internet - kids.
+   <br><br>
+
    <br><br>
 <h4>Alumni</h4>
 

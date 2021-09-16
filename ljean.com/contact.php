@@ -21,7 +21,7 @@
     <br>
 <p align="justify" id="content1"> <a name="top"><strong>Contact</strong><br> <br></a>
     
-If you are going to ask about Masters in Security Informatics, please contact <A href="http://www.soic.indiana.edu/all-people/profile.html?profile_id=261"> Prof. Myers</a> for academic issues, or one of the <A href="http://www.soic.indiana.edu/graduate/"> administrators</a> if you have process questions. 
+If you are going to ask about Masters in Security Informatics, please contact <A href="https://homes.luddy.indiana.edu/kapadia/"> Prof. Apu Kapadia</a> for academic issues, or one of the <A href="http://www.soic.indiana.edu/graduate/"> administrators</a> if you have process questions. 
   <br><br>
     For <A href="http://infosecon.net">Economics of Information Security</a>, you are welcome to contact me.
   <br><br>
@@ -44,7 +44,7 @@ My work on IPv6 diffusion, botnet modeling, and Ambient Trust are my own and my 
  <strong>Contact Information</strong><br>
     <br>
     USPS:<br>
-    <a href="http://www.informatics.indiana.edu/">School of Informatics &amp; Computing</a><br>
+    <a href="https://luddy.indiana.edu/">Luddy School of Informatics, Computing &amp; Engineering</a><br>
     Office #300<br>
     901 E 10th St<br>
     Indiana University<br>
@@ -60,20 +60,15 @@ My work on IPv6 diffusion, botnet modeling, and Ambient Trust are my own and my 
  <strong>Titles</strong><br>
     <br>
     Professor of Informatics<br>
-    School of Informatics<br>
+    Professor of Computer Science<br>
+    Luddy<br>
 <A href=http://indiana.edu>      Indiana University</a><br><br>
     <br>
     Founding Program Director<br>
 <A href=http://security.informatics.indiana.edu> Masters of Science in Security Informatics<a/><br>
       Indiana University</a>
 <br>
-<br>
-    Adjunct Professor<br>
-     &nbsp;&nbsp;&nbsp;of Telecommunications<br>
-    Adjunct Professor<br>
-      &nbsp;&nbsp;&nbsp;School of Public Health<br>
-<A href=http://indiana.edu>      Indiana University</a><br>
-   
+
 
 <!----<div id="bg"></div>
 </div>
