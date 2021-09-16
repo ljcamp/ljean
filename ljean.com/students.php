@@ -30,36 +30,43 @@
 <P align="justify">
     <br>
 
+    <A href="https://www.linkedin.com/in/pcaven/"> Peter Caven</a> is evaluating organizational as well as individual security behaviors.
+    <br>
+<br>
+
+    <A href="https://www.linkedin.com/in/ece-gumusel-770582148/"> Ece Gumsel</a> is focusing on information exfiltration in emerging modes of interaction.
+    <br>
+<br>
+
+
    <A href="https://lauracalloway.com/">Laura Calloway</a>
      is examining information exfiltration on personal health devices. She is comparing the perceptions and reality of personal and health information, considering both security and privacy.
 
      <br>
      <br>
-   <A href="http://www.linkedin.com/in/deckard">Hilda Hadan</a>
-works on perceptions and reality of PKI and privacy on the Internet, in smart cities, and in the IoT.
-     <br>
-    <br>  
+   
 
 <A href="http://homes.soic.indiana.edu/dikim/">DongInn Kim</a> became a member of
    the research group in summer 2017. His background is in computer
    networking. He is our new lead on the CUTS CertProbe and the
-   CertWarehouse to more effectively share our data. 
+   CertWarehouse to more effectively share our data. His current focus is on diverse, trustworthy AI in security.
+
+<br>
+<br>
+<A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is a master of human subjects 
+experiments, data analysis, and insightful design in response to the findings.
 
 <br>
 <br>
 
-<A href="https://www.linkedin.com/in/behnood-momenzadeh-202b374a">Behnood
-    Momenzadeh</a> is examining how to evaluate risk in IoT and mobile devices,
-    how to combines these risk measures, and how to communicate the
-    risk to the user. 
-   <br>
-<br>
+<A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneer contributions to the 
+emerging standards for securing the IoT, particularly MUD and SBoM.
 
 <A
     href="https://www.linkedin.com/in/shakthidhar-gopavaram-ba576035">Shakthidhar
-    Gopavaram</a> is evaluating human risk taking. Currently he is
-    completing analysis on web-based risk-taking and will move to
-    embedded systems. 
+    Gopavaram</a> is evaluating human risk taking, including comparive 
+    global analyses of risk-taking on the web-based risk-taking and local analyses of risk-taking 
+    with embedded systems in the home. 
    <br>
 <br>
     <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> is
@@ -69,7 +76,16 @@ works on perceptions and reality of PKI and privacy on the Internet, in smart ci
     design with Sameer Patil. 
     <br>
 <br>
+<A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expands our 
+focus to the most vulnerable on the Internet - kids.
+   <br><br>
 <h4>Alumni</h4>
+
+<A href="https://www.linkedin.com/in/behnood-momenzadeh-202b374a">Behnood
+    Momenzadeh</a> focused on evaluating cryptocurrency as a human, macroeconomic, and financial instrument. 
+   <br>
+<br>
+
 
  <A  href="https://www.linkedin.com/in/sanchari-das/">Sanchari
     Das</a> is focused on usable privacy and security, particularly
@@ -132,9 +148,9 @@ University Department of Psychology and Crane Naval, continuing to
 <a href="http://allan.friedmans.org/">Allan Friedman</a> on security and privacy. By combining game theory and social network modeling he was able to examine how information flowed across the combination of social and computing networks. His work pioneered the use of crowd-sourcing and peer production for diffusion of information sharing for community security and privacy (beyond open source communities). He is the Director of Cybersecurity Initiatives at National Telecommunications and Information Administration in the US Department of Commerce.  <br>
 <br>
 <br>
-    Somewhere between this and the next category lies   <A href= "https://www.dubfire.net/">Christopher Soghoian</a> on electronic civil liberties. He is currently the Principal Technologist with the Speech, Privacy, and Technology Project at the ACLU.<br>
-
+   
     <br>  <h4></em></strong><em>Doctoral Alumni, Joint  Advisor or Committee</em><br></h4>
+   <A href="https://www.researchgate.net/profile/Yasmeen-Rashidi"> Yasmeen Rashidi </a><br>
 <A href="http://homes.soic.indiana.edu/zhou/">Xiaoyong Zhou</a> on mobile security.<br>
 <A href="http://research.microsoft.com/en-us/um/people/ruiwan/">Rui Wang</a> on malware and security in ecommerce.<br>
     <a href="http://carlos-osorio.cl/">Carlos Osorio</a> on ICT for development, innovation, security and privacy.<br>
@@ -143,35 +159,218 @@ University Department of Psychology and Crane Naval, continuing to
     <a href="http://www.news.harvard.edu/gazette/2002/10.24/10-belfer.html">Sabine 
     Schaffer</a> on trust in the Internet.<br>
 <a href="http://www.ccsr.cse.dmu.ac.uk/sara/">Sara Wilford</a> on 
-    privacy.<br>
-
-<h4></em></strong><em>Selected Excellent Nondoctoral Alumni</em><br></h4>
-
-
-<A href="https://www.linkedin.com/in/nicserrano/">Nicolas Serrano</a> has done breakthrough work in interdisciplinary understanding of <A href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3425554 ">why PKI fails</a>
 
 <br>
+<br>
+    privacy.<br>
+
+<h4></em></strong><em>Selected Excellent Masters Alumni</em><br></h4><br><br>
+This includes only those students in a Masters program who have worked with me on research beyond the classroom. If I have not included your name, please contact me and give me permission to do so. If you would like to withdraw permission, please also contact me. Exclusion does not in any way imply lack of excellence!
+<br>
+<A href="http://www.linkedin.com/in/deckard">Hilda Hadan</a>
+works on perceptions and reality of PKI and privacy on the Internet, in smart cities, and in the IoT.  
+<br>
+<A href="https://www.linkedin.com/in/nicserrano/">Nicolas Serrano</a> has done breakthrough work in interdisciplinary understanding of <A href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3425554 ">why PKI fails</a>
+<br>
 <A  href="https://www.linkedin.com/in/jonathan-schubauer-119a9976/">Jonathan Schubauer</a> examines the impact of regulation and organizational structure on privacy and permissions.
-<br><A href="https://www.linkedin.com/in/gianpaolo-russo-aa7a7084">Gianpaolo
-    Russo</a> combined technical excellence with his pursuit of a
-    JD. He is captain of the CTF team and deep into the bits in his
-    work on binary analysis in IoT.
 <br>
     <A href="http://www.isec.co.in/">Sanjay Pandey</a> has spent his
     career innovating for justice and transparency using ICTs in
 India.<br>
 <A href="http://www.norcie.com"">Greg Norcie</a> the intersection of
-    public policy, traditional usability with security and privacy. <br>
-<A href="http://www.informatik.uni-trier.de/~ley/pers/hd/a/Asgharpour:Farzaneh">Farzaneh Asgharpour</a> on mental models of security.<br>
-<A href="http://www.linkedin.com/in/tbross">Ty Bross</a> on mobile desvice security.<br>
-    <a href="http://allazollers.com/">Alla Zollers</a> on usable security and social trust,  interaction designer on <A href="NetTrust">on Net Trust</a>.<br>
- <A href="http://www.hillaryelmore.com">Hillary Elmore</a> on usable PGP.<br>
-    <a href="www.linkedin.com/pub/gayathri-athreya/0/828/681">Gayathri 
-   Athreya</a> on usable security.<br>
-<a href="https://www.linkedin.com/in/tomoore/">Tony     Moore </a><br>
-<a href="http://www.ece.uwaterloo.ca/%7Et6chen/">Taiyu Chen</a> on ICT for development.<br>
-<A href="http://brandonstephens.com/">Brandon Stephens</a> on usable security and Net Trust.<br>
-    <br>    <br>
+    public policy, traditional usability with security and privacy. 
+    <br>
+<A href="http://www.informatik.uni-trier.de/~ley/pers/hd/a/Asgharpour:Farzaneh">Farzaneh Asgharpour</a> did pioneering work applying mental models to usable security.
+<br>
+<A href="http://www.linkedin.com/in/tbross">Ty Bross</a> on mobile desvice security.
+<br>
+    <a href="http://allazollers.com/">Alla Zollers</a> on usable security and social trust,  interaction designer on <A href="NetTrust">on Net Trust</a>.
+    <br>
+ <A href="http://www.hillaryelmore.com">Hillary Elmore</a> on usable PGP.
+ <br>
+    <a href="www.linkedin.com/pub/gayathri-athreya/0/828/681">Gayathri Athreya</a> on usable security.
+<br>
+<a href="https://www.linkedin.com/in/tomoore/">Tony  Moore </a>
+    <br> 
+<a href="http://www.ece.uwaterloo.ca/%7Et6chen/">Taiyu Chen</a> on ICT for development.
+<br>
+<A href="http://brandonstephens.com/">Brandon Stephens</a> on usable security and Net Trust.
+<br>
+<A href="https://www.linkedin.com/in/ssymehil/">Serena Syme</a><br>
+Soumya Achar<br>
+Andrew C. Dingman <br>
+Gianpaolo Russo<br>
+Kaushik Srinivasan<br>
+Advait Marathe<br>
+Hillary Elmore<br>
+Brandon Stephens<br>
+Farzaneh Asgharpour<br>
+Helen Dougherty <br>
+Sonal Shrivastava<br>
+Karrington Lewis <br>
+Nicolas Serrano <br>
+ Veeramachaneni,Praveen<br>
+Shreyas Kamath<br>
+Violeta Moreno<br>
+Navved Alam<br>
+Siyu Chen<br>
+Mehoo Intwala<br>
+Advait marat@umail.iu.edu<br>
+Derrick Baines<br>
+Om Sowmya Harshini Achanta <br>
+Raghavendra Nataraj<br>
+Brad Tenenholtz <br>
+Pralhad Suresh Sapre<br>
+Shravan Jagadish Kumar<br>
+Xiaomeng Ye <br>
+Srivatsan Iyer<br>
+Benedict Jones<br>
+Jill Minor<br>
+<br>
+
+<br>
+
+<h4>REU Current and Past</h4><br>
+Supervised by myself and my research team, funded as part of research projects large and small.<br>
+<br>
+<h4>2021 
+</h4><br>
+Ashley Bocher<br>
+Bingxing Wang<br>
+Ashley Bochner<br>
+Shaurya  Swami<br>
+Skyler Johnson  <br>
+Katie Ferro  <br>
+Eric Swiler <br>
+Olivia Kenny <br>
+Jonathan Cheng <br>
+Brandon Flinn <br>
+<br>
+<br>
+<br>
+<h4>2020</h4><br>
+Please add your past REUS and MS and identify<br>
+Brendan Moore REU (NSF)<br>
+Annie Tompkins REU (CEW&T)<br>
+Joshua Devon Johnson (PKI project for summer)<br>
+Jack Ruocco (PKI project for spring)<br>
+Trevor Owen Cutshall(PKI project for summer)<br>
+Zora Streiff(PKI project for summer)<br>
+Andrew Kim<br>
+Ashley Bocher<br>
+ <br>
+<br>
+<br>
+<br>
+<h4>2019</h4><br>
+Christa Abar <br>
+Max Harms<br>
+Amanda King<br>
+David Hume<br>
+Shea Tuli<br>
+Hyeon Jung Lee <br>
+Rahil Thanawala <br>
+Joe Soellner <br>
+Jenni Munoz <br>
+Joshua Devon Johnson<br>
+Zachary Tingle<br>
+Ploy Unchi<br>
+<br>
+<br>
+<h4>2018</h4><br>
+Yuyao Ba <br>
+Ebuka Egbunam<br>
+Tessa Imperial <br>
+<br>
+<br>
+2017<br>
+Olivia Kenny<br>
+Clint McElroy<br>
+Olivia Kenny<br>
+Brad Lufkin (MACRO)<br>
+Liberty Flora (MACRO)<br>
+<br>
+<h4>2016</h4><br>
+Rachel Huss<br>
+Melyssa Eland<br>
+Yeesoo Chae<br>
+Chanel Lange-Many Penn State<br>
+Ciabhan Connelly<br>
+<br>
+<h4>2015</h4><br>
+2015<br>
+Caitlin Hanley<br>
+Debbie Taylor<br>
+<br>
+<br>
+<h4>2014</h4><br>
+2014<br>
+Todd Wantz<br>
+Donovan Price<br>
+<br>
+<br>
+<h4>2013</h4><br>
+Robin Dalton<br>
+Celine Zimmerman<br>
+<br>
+<br>
+<h4>2011</h4><br>
+Lan Li<br>
+Suzanne Lein<br>
+<br>
+<br>
+<h4>2010</h4><br>
+Christopher Reinking<br>
+Keith Weisberg<br>
+Celine Zimmerman<br>
+Varun Khanduka<br>
+Zack Zimmerman<br>
+<br>
+<br>
+<h4>2009</h4><br>
+Alex Sulgrove (ETHOS)<br>
+Micheal Roche (ETHOS)<br>
+Ye Danqing (ETHOS)<br>
+Micheal Rinhart (ETHOS)<br>
+John Wayne Hill (ETHOS)<br>
+Daria Orlovia (ETHOS)<br>
+Oliver McGraw (ETHOS)<br>
+Katie O'Donnell (ETHOS)<br>
+Claire Alvis (ETHOS)<br>
+Jeremy Green (ETHOS)<br>
+Katherine Kreig (ETHOS)<br>
+Erin Widdicombe (ETHOS)<br>
+Kurt Weismann (ETHOS)<br>
+<br>
+<br>
+<h4>2008</h4><br>
+Zack Zimmerman (ETHOS)<br>
+Craig Bauer (ETHOS)<br>
+Shari Brown (ETHOS)<br>
+Lindsay Gibson (ETHOS)<br>
+Carol Ruppe (ETHOS)<br>
+Kurt Gindlink (ETHOS)<br>
+Greg Orlov (ETHOS)<br>
+Aidos Utegulov (ETHOS)<br>
+Jarret David (ETHOS)<br>
+<br>
+<h4>2007</h4><br>
+Zack Zimmerman (ETHOS)<br>
+Craig Bauer (ETHOS)<br>
+Shari Brown (ETHOS)<br>
+Lindsay Gibson (ETHOS)<br>
+Carol Ruppe (ETHOS)<br>
+Kurt Gindlink (ETHOS)<br>
+Greg Orlov (ETHOS)<br>
+Aidos Utegulov (ETHOS)<br>
+Jarret David (ETHOS)<br>
+<br>
+<h4>Before 2007</h4><br>
+<br>
+
+
+
+
   <p align="justify"> <br>
     <br>
 </div>
