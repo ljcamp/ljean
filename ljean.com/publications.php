@@ -31,6 +31,17 @@
   spans multiple category. 
 <br>
     <br>
+<br>
+<br>
+This page is no longer actively maintained, but I will not delete in order to fight link rot.
+<br>
+<br>
+Please see the page describing the publications of my team at <A href="https://www.usablesecurity.net/publications/">the Human &amp; Technical Security Page</a>.
+<br>
+<br>
+<strong>Beginning Outdated Publications</strong><br> <br>
+ <br>
+ <br>
 Most recently updated is the slide set from Real World Crypto <A href="http://ljean.com/files/RealWordCryptov4.pdf">http://ljean.com/files/RealWordCryptov4.pdf</a>
 <br>
     <br>

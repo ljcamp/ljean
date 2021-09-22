@@ -18,15 +18,15 @@
 <br>
 </em>
 	
-<em><br>Classes for the 2020-2021 academic year<br></em></strong>
+<em><br>Classes for the 2020-2021 academic year were the same as the 2021-2022<br></em></strong>
 <br>Introduction to Mathematical Foundations of Cryptography  
 <br> Spring<br>
-A course that starts with substitution ciphers and ends with elliptic curves. If you learn nothing other than not to write your own, then you have learned the most critical rule of crypto.
+A course that starts with substitution ciphers and ends with elliptic curves. If you learn nothing other than not to write your own, then you have learned the most critical rule of crypto. Crypto means cryptography.
 <br>
 <br>
 <br>Economics of Security
 <br> Fall<br>
-Economics of security and privacy focuses on incentives and behaviors. Only three weeks of cryptocurrency with a focus on its uses.
+Economics of security and privacy focuses on incentives and behaviors. Only three weeks of cryptocurrency with a focus on its uses in crime, and the privacy (or lack) of its transactions.
 <br>
 <br>
     <em><br>Classes for the 2019-2020 academic year<br></em></strong>
@@ -42,9 +42,10 @@ Sabbatical
 <br>
 <br>
 											
-    <em><br>Classes for the 2016-2019 academic year<br></em></strong>
+    <em><br>Classes for the 2017-2018 as well as 2018-2019 academic years<br></em></strong>
 
-INFO 525, INFO 609,and  CS B649 were offered in class as well as online. The course was co-created with the students as such there is no posted public syllabus.  
+INFO 525, INFO 609, and  CS B649 were offered in class in person as well as online. The courses were co-created with the students so no posted public syllabi.  </a>
+These are canvas-intensive years.
 
 <br>
 <br>
@@ -56,7 +57,7 @@ INFO 525, INFO 609,and  CS B649 were offered in class as well as online. The cou
 <br> Fall<br>
 The core class for students entering security covers the material necessary for security literacy. In addition to covering the majority of a well-regarded textboook, the course includes weekly applied labs, and one semester-long deep dive into a student-selected topic.
 
-<br>
+<br> 
 <br>
 
 I525 Economics of Information

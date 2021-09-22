@@ -34,15 +34,21 @@ rel="stylesheet">
     <A href="http://ljean.com/files/AlfaBankLetter2.pdf">Alfa Bank Second Letter</a><br>
       <A href="http://www.ljean.com/files/AlfaBankResponse2.pdf">Second Legal Response</a><br>
 </p>
-   <p>
 
 After these letters Alfa Bank sent <A href="http://ljean.com/files/AlfaBankLetter3.pdf">a third letter</a>, which asked, <q>..we should be most grateful if you would provide specific answers to the following questions:</q>. The only answer would have been an unequivocal refusal.  As we did not answer privately, I did not post publicly until now.  I thought this might be the end of the matter. In case there is confusion, my answer is, <q>No</q>.
 </p>
+
+<p>Some more letters<br>
+   <A href="http://ljean.com/NetworkRecords/TrumpRussiaEFF.pdf">EFF Opposes Alfa Bank</a><br>
+      <A href="http://www.ljean.com/NetworkRecords/alfa_bank_v._doe_-_order_granting_motion_to_quash.pdf">Court Agrees with EFF</a><br>
+      <A href="http://www.ljean.com/NetworkRecords/Alfa_appeal_vacate_20210519_opinion.pdf">Next Court Disagrees with first court and with EFF</a><br>
+</p>
+   <p>
 <p>
 However, at the same time Alfa Bank was sending the letter above, they also were pursuing a public records request with Indiana University. Please note that Indiana University does not have access to all the email accounts they request. The other parties in this letter come not from any investigations or factual requests, but rather from unsubstantiated assertions by people with zero knowledge of matter. As far as I can tell, Alfa Bank selected these names from random stangers on Twitter and Reddit. Here is the <A href="http://ljean.com/files/AlfaBankLetter3.pdf">Alfa FOIA request</a>
 </p>
 <p>
-This is an ongoing investigation within Alfa Bank according to Alfa Bank. They are requested data and assistance. It is true that there was inconsistent self-contradictory documentation of a facile investigation. The letters above clearly state that the Alfa Bank investigation is continuing.
+This was an ongoing investigation within Alfa Bank according to Alfa Bank. They are requested data and assistance. It is true that there was inconsistent self-contradictory documentation of a facile investigation. The letters above clearly state that the Alfa Bank investigation is continuing.
 </p>
 <p>
 <em><br>Here for a special engagement is data that consists of DNS look-ups and public information about Trump email server and Alfa bank. I believe it indicates a nexus of communication worthy of further investigation. It also appears to be human interaction, based on timing.<br> <br></em>

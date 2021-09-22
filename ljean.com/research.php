@@ -14,14 +14,21 @@
 
 <br>
 <p>
-<br>
-<br>
+
 <p>
 <br>
 <p align="justify" id="content"> <a name="top"><strong>A High Level Research Overview</strong><br> <br>
-
-
-
+<br>
+<br>
+This page is no longer actively maintained, but I will not delete in order to fight link rot.
+<br>
+<br>
+Please see the page describing the research of my team at <A href="https://www.usablesecurity.net/projects/index.php">the Human &amp; Technical Security Page</a>.
+<br>
+<br>
+ <a name="top"><strong>Beginning Outdated Research Review</strong><br> <br>
+<br>
+<br>
 Here are research highlights and policies. To learn about my research, read the papers! These are available and sorted by topic at the <strong><A href= "publication.php">publications page</A>.</strong>  These are just somewhat random examples.
 and security, and security and privacy. 
 <br>
