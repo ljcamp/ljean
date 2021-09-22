@@ -14,7 +14,8 @@
 <br>
 </a>
 <p align="justify" id="content"> <a name="top"><strong>Teaching</strong><br></a> <br>
-<em><br>This is a listing of traditional lecture-style courses that I teach at Indiana. In addition to these lecture-style courses below,  I am also instructor for INFO 591, INFO 790, INFO 798, INFO 890, and  INFO 490. I have worked with teams in INFO 491 but not every year.
+<em><br>This is a listing of traditional lecture-style courses that I teach at Indiana. In addition to these lecture-style courses below,  I am also instructor for INFO 591, INFO 790, INFO 798, INFO 890, and  INFO 490. 
+I have worked with teams in INFO 491 but not every year. I have supervised students at every level, from high school emerging scholars to doctoral researchers.
 <br>
 </em>
 	
@@ -24,28 +25,29 @@
 A course that starts with substitution ciphers and ends with elliptic curves. If you learn nothing other than not to write your own, then you have learned the most critical rule of crypto. Crypto means cryptography.
 <br>
 <br>
-<br>Economics of Security
+<br><A href=""http://www.ljean.com/classes/EconSec2020Syllabus.pdf">Economics of Security</a>
 <br> Fall<br>
 Economics of security and privacy focuses on incentives and behaviors. Only three weeks of cryptocurrency with a focus on its uses in crime, and the privacy (or lack) of its transactions.
 <br>
 <br>
+
     <em><br>Classes for the 2019-2020 academic year<br></em></strong>
 <A href="http://www.ljean.com/classes/19_20/330_Camp_syllabus.html">Legal &amp; Social Informatics of Security. </a>
 <br> Spring<br>
-The class for students graduating in the Informatics Security program. This course combines lectures, readings, and in-class hands-on learning. It is targeted for juniors or advanced sophomores. 
+The class for Luddy students enrolled in the <A href="https://informatics.indiana.edu/programs/bs-informatics/cognates.html">Informatics Security cognate</a>, in the <A href="https://informatics.indiana.edu/programs/minors.html">Security minor</a> from across the University,  and is often chosen by students in the <A href="https://ils.indiana.edu/programs/minor-intelligence-studies.html">
+    Intelligence minor</a>. Students from the Hamilton Lugar School of Global and International Studies enrolled in the <A href="https://hls.indiana.edu/academics/undergraduate/pathways/cyber-global.html">
+   Cybersecurity and Global Policy</a> program.  This course combines lectures, readings, and in-class hands-on learning.  Because of the pandemic, the normal group project component was replaced with a series of virtual seminars
+   with leaders from the public and private sectors.
 
 <br>
 <br>
 
-<br> Fall<br>
-Sabbatical
-<br>
-<br>
+ 
 											
     <em><br>Classes for the 2017-2018 as well as 2018-2019 academic years<br></em></strong>
 
-INFO 525, INFO 609, and  CS B649 were offered in class in person as well as online. The courses were co-created with the students so no posted public syllabi.  </a>
-These are canvas-intensive years.
+INFO 525, INFO 609, and  CS B649 were offered in class, in person as well as online. The courses were co-created with the students so no posted public syllabi.  </a>
+These are canvas-intensive years. 
 
 <br>
 <br>
@@ -55,7 +57,7 @@ These are canvas-intensive years.
     <em><br>Classes for the 2016-2017 academic year<br></em></strong>
 <A href="http://www.ljean.com/classes/16_17/IoT/IoT.html">Security &amp; Privacy in the Internet of Things</a>
 <br> Fall<br>
-The core class for students entering security covers the material necessary for security literacy. In addition to covering the majority of a well-regarded textboook, the course includes weekly applied labs, and one semester-long deep dive into a student-selected topic.
+The core class for students entering security covers the material necessary for security literacy. In addition to covering the majority of a well-regarded textboook, the course includes weekly applied labs, and one semester-long deep dives into a student-selected topic.
 
 <br> 
 <br>
