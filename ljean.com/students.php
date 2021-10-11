@@ -155,7 +155,7 @@ University Department of Psychology and Crane Naval, continuing to
 <br>
 <br>
    
-    <br>  <h4></em></strong><em>Doctoral Alumni, Joint  Advisor or Committee</em><br></h4>
+    <br>  <h4></em></strong><em>Doctoral Alumni, Joint  Advisor or Committee</em></h4>
    <A href="https://www.researchgate.net/profile/Yasmeen-Rashidi"> Yasmeen Rashidi </a><br>
 <A href="http://homes.soic.indiana.edu/zhou/">Xiaoyong Zhou</a> on mobile security.<br>
 <A href="http://research.microsoft.com/en-us/um/people/ruiwan/">Rui Wang</a> on malware and security in ecommerce.<br>
@@ -164,13 +164,13 @@ University Department of Psychology and Crane Naval, continuing to
    <A href="http://www.linkedin.com/pub/serena-chan/6/232/ab9"> Serena Chan</a> on reliability and hardening by using commodity computing in satellites.<br>
     <a href="http://www.news.harvard.edu/gazette/2002/10.24/10-belfer.html">Sabine 
     Schaffer</a> on trust in the Internet.<br>
-<a href="http://www.ccsr.cse.dmu.ac.uk/sara/">Sara Wilford</a> on 
+<a href="http://www.ccsr.cse.dmu.ac.uk/sara/">Sara Wilford</a> on privacy perceptions.
 
 <br>
 <br>
-    privacy.<br>
+ 
 
-<h4></em></strong><em>Selected Excellent Masters Alumni</em><br></h4><br><br>
+<h4></em></strong><em>Selected Excellent Masters Alumni</em><br></h4>
 This includes only those students in a Masters program who have worked with me on research beyond the classroom. If I have not included your name, please contact me and give me permission to do so. If you would like to withdraw permission, please also contact me. Exclusion does not in any way imply lack of excellence!
 <br>
 <A href="http://www.linkedin.com/in/deckard">Hilda Hadan</a>
@@ -181,7 +181,7 @@ works on perceptions and reality of PKI and privacy on the Internet, in smart ci
 <A  href="https://www.linkedin.com/in/jonathan-schubauer-119a9976/">Jonathan Schubauer</a> examines the impact of regulation and organizational structure on privacy and permissions.
 <br>
     <A href="http://www.isec.co.in/">Sanjay Pandey</a> has spent his
-    career innovating for justice and transparency using ICTs in
+    career innovating for secure, reliable, and transparent use of ICTs in
 India.<br>
 <A href="http://www.norcie.com"">Greg Norcie</a> the intersection of
     public policy, traditional usability with security and privacy. 
@@ -190,7 +190,7 @@ India.<br>
 <br>
 <A href="http://www.linkedin.com/in/tbross">Ty Bross</a> on mobile desvice security.
 <br>
-    <a href="http://allazollers.com/">Alla Zollers</a> on usable security and social trust,  interaction designer on <A href="NetTrust">on Net Trust</a>.
+    <a href="https://www.linkedin.com/in/allaweinberg/">Alla Weinberg</a> on usable security and social trust,  interaction designer on <A href="NetTrust">on Net Trust</a>.
     <br>
  <A href="http://www.hillaryelmore.com">Hillary Elmore</a> on usable PGP.
  <br>
@@ -203,25 +203,23 @@ India.<br>
 <A href="http://brandonstephens.com/">Brandon Stephens</a> on usable security and Net Trust.
 <br>
 <A href="https://www.linkedin.com/in/ssymehil/">Serena Syme</a><br>
-Soumya Achar<br>
-Andrew C. Dingman <br>
-Gianpaolo Russo<br>
-Kaushik Srinivasan<br>
-Advait Marathe<br>
-Hillary Elmore<br>
-Brandon Stephens<br>
-Farzaneh Asgharpour<br>
+https://www.linkedin.com/in/soachar/">Soumya Achar</a><br>
+https://www.linkedin.com/in/andrewdingman/">Andrew C. Dingman</a> <br>
+https://www.linkedin.com/in/kausrini/">Kaushik Srinivasan</a><br>
+https://www.linkedin.com/in/emily-k-adams-756bb64/">Emily Adams<br>
 Helen Dougherty <br>
-Sonal Shrivastava<br>
+Dakshi Kumar 
+Sonal Shrivastava  
+Omkar Bhide 
+Dakshi Kumar 
 Karrington Lewis <br>
-Nicolas Serrano <br>
- Veeramachaneni,Praveen<br>
+Proveen Veeramachaneni<br>
+Advait Marathe<br>
 Shreyas Kamath<br>
 Violeta Moreno<br>
 Navved Alam<br>
 Siyu Chen<br>
-Mehoo Intwala<br>
-Advait marat@umail.iu.edu<br>
+<A href="https://www.linkedin.com/in/mehoolintwala/?locale=de_DE">Mehool Intwala</a><br>
 Derrick Baines<br>
 Om Sowmya Harshini Achanta <br>
 Raghavendra Nataraj<br>
