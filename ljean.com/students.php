@@ -165,6 +165,7 @@ University Department of Psychology and Crane Naval, continuing to
     <a href="http://www.news.harvard.edu/gazette/2002/10.24/10-belfer.html">Sabine 
     Schaffer</a> on trust in the Internet.<br>
 <a href="http://www.ccsr.cse.dmu.ac.uk/sara/">Sara Wilford</a> on privacy perceptions.
+<A href="https://scholar.google.com/citations?user=S3OptzMAAAAJ">Azadeh Nematzadeh</a> on health information privacy.
 
 <br>
 <br>
@@ -188,7 +189,7 @@ India.<br>
     <br>
 <A href="http://www.informatik.uni-trier.de/~ley/pers/hd/a/Asgharpour:Farzaneh">Farzaneh Asgharpour</a> did pioneering work applying mental models to usable security.
 <br>
-<A href="http://www.linkedin.com/in/tbross">Ty Bross</a> on mobile desvice security.
+<A href="http://www.linkedin.com/in/tbross">Ty Bross</a> on mobile device security.
 <br>
     <a href="https://www.linkedin.com/in/allaweinberg/">Alla Weinberg</a> on usable security and social trust,  interaction designer on <A href="NetTrust">on Net Trust</a>.
     <br>
@@ -202,16 +203,21 @@ India.<br>
 <br>
 <A href="http://brandonstephens.com/">Brandon Stephens</a> on usable security and Net Trust.
 <br>
+<A href="https://www.linkedin.com/in/charles-vincent-5160386/">Charles Vincent</a> on Internet governance<br>
+<A href="https://www.linkedin.com/in/shoun-m-b792a95/">Shoun Mao</a> on ICTS for development<br>
+<A href="https://www.linkedin.com/in/mridulch/">Mridul Chowdhury </a> on ICTS for development<br>
 <A href="https://www.linkedin.com/in/ssymehil/">Serena Syme</a><br>
-https://www.linkedin.com/in/soachar/">Soumya Achar</a><br>
-https://www.linkedin.com/in/andrewdingman/">Andrew C. Dingman</a> <br>
-https://www.linkedin.com/in/kausrini/">Kaushik Srinivasan</a><br>
-https://www.linkedin.com/in/emily-k-adams-756bb64/">Emily Adams<br>
-Helen Dougherty <br>
-Dakshi Kumar 
-Sonal Shrivastava  
-Omkar Bhide 
-Dakshi Kumar 
+<A href="https://www.linkedin.com/in/soachar/">Soumya Achar</a><br>
+<A href="https://www.linkedin.com/in/andrewdingman/">Andrew C. Dingman</a> <br>
+<A href="https://www.linkedin.com/in/kausrini/">Kaushik Srinivasan</a><br>
+<A href="https://www.linkedin.com/in/emily-k-adams-756bb64/">Emily Adams<br>
+<A href="https://www.linkedin.com/in/mehoolintwala/?locale=de_DE">Mehool Intwala</a><br>
+<A href="https://www.linkedin.com/in/preetihariharan/">Preeti Hariharan</a><br>
+<A href="https://www.linkedin.com/in/helendougherty/">Helen Dougherty</a><br>
+Ken Lewis<br>
+Sonal Shrivastava  <br>
+Omkar Bhide <br>
+Dakshi Kumar <br>
 Karrington Lewis <br>
 Proveen Veeramachaneni<br>
 Advait Marathe<br>
@@ -219,9 +225,7 @@ Shreyas Kamath<br>
 Violeta Moreno<br>
 Navved Alam<br>
 Siyu Chen<br>
-<A href="https://www.linkedin.com/in/mehoolintwala/?locale=de_DE">Mehool Intwala</a><br>
 Derrick Baines<br>
-Om Sowmya Harshini Achanta <br>
 Raghavendra Nataraj<br>
 Brad Tenenholtz <br>
 Pralhad Suresh Sapre<br>
@@ -235,12 +239,11 @@ Jill Minor<br>
 <br>
 
 <h4>REU Current and Past</h4><br>
-Supervised by myself and my research team, funded as part of research projects large and small.<br>
+Supervised by myself and my research team, funded as part of research projects large and small or under targeted programs for undergraduate research.<br>
 <br>
 <h4>2021 
-</h4><br>
+</h4>
 Ashley Bocher<br>
-Bingxing Wang<br>
 Ashley Bochner<br>
 Shaurya  Swami<br>
 Skyler Johnson  <br>
@@ -250,23 +253,17 @@ Olivia Kenny <br>
 Jonathan Cheng <br>
 Brandon Flinn <br>
 <br>
-<br>
-<br>
-<h4>2020</h4><br>
-Please add your past REUS and MS and identify<br>
-Brendan Moore REU (NSF)<br>
-Annie Tompkins REU (CEW&T)<br>
-Joshua Devon Johnson (PKI project for summer)<br>
-Jack Ruocco (PKI project for spring)<br>
-Trevor Owen Cutshall(PKI project for summer)<br>
-Zora Streiff(PKI project for summer)<br>
+<h4>2020</h4>
+Brendan Moore REU <br>
+Annie Tompkins REU <br>
+Joshua Devon Johnson <br>
+Jack Ruocco <br>
+Trevor Owen Cutshall<br>
+Zora Streiff<br>
 Andrew Kim<br>
 Ashley Bocher<br>
  <br>
-<br>
-<br>
-<br>
-<h4>2019</h4><br>
+<h4>2019</h4>
 Christa Abar <br>
 Max Harms<br>
 Amanda King<br>
@@ -278,60 +275,53 @@ Joe Soellner <br>
 Jenni Munoz <br>
 Joshua Devon Johnson<br>
 Zachary Tingle<br>
-Ploy Unchi<br>
+Ploy Unchit<br>
+Bingxing Wang<br>
 <br>
-<br>
-<h4>2018</h4><br>
+<h4>2018</h4>
 Yuyao Ba <br>
 Ebuka Egbunam<br>
 Tessa Imperial <br>
 <br>
-<br>
-2017<br>
+<h4>2017</h4>
 Olivia Kenny<br>
 Clint McElroy<br>
-Olivia Kenny<br>
 Brad Lufkin (MACRO)<br>
 Liberty Flora (MACRO)<br>
 <br>
-<h4>2016</h4><br>
+<h4>2016</h4>
 Rachel Huss<br>
 Melyssa Eland<br>
 Yeesoo Chae<br>
 Chanel Lange-Many Penn State<br>
 Ciabhan Connelly<br>
 <br>
-<h4>2015</h4><br>
+<h4>2015</h4>
 2015<br>
 Caitlin Hanley<br>
 Debbie Taylor<br>
 <br>
-<br>
-<h4>2014</h4><br>
+<h4>2014</h4>
 2014<br>
 Todd Wantz<br>
 Donovan Price<br>
 <br>
-<br>
-<h4>2013</h4><br>
+<h4>2013</h4>
 Robin Dalton<br>
 Celine Zimmerman<br>
 <br>
-<br>
-<h4>2011</h4><br>
+<h4>2011</h4>
 Lan Li<br>
 Suzanne Lein<br>
 <br>
-<br>
-<h4>2010</h4><br>
+<h4>2010</h4>
 Christopher Reinking<br>
 Keith Weisberg<br>
 Celine Zimmerman<br>
 Varun Khanduka<br>
 Zack Zimmerman<br>
 <br>
-<br>
-<h4>2009</h4><br>
+<h4>2009</h4>
 Alex Sulgrove (ETHOS)<br>
 Micheal Roche (ETHOS)<br>
 Ye Danqing (ETHOS)<br>
@@ -346,8 +336,7 @@ Katherine Kreig (ETHOS)<br>
 Erin Widdicombe (ETHOS)<br>
 Kurt Weismann (ETHOS)<br>
 <br>
-<br>
-<h4>2008</h4><br>
+<h4>2008</h4>
 Zack Zimmerman (ETHOS)<br>
 Craig Bauer (ETHOS)<br>
 Shari Brown (ETHOS)<br>
@@ -358,7 +347,7 @@ Greg Orlov (ETHOS)<br>
 Aidos Utegulov (ETHOS)<br>
 Jarret David (ETHOS)<br>
 <br>
-<h4>2007</h4><br>
+<h4>2007</h4>
 Zack Zimmerman (ETHOS)<br>
 Craig Bauer (ETHOS)<br>
 Shari Brown (ETHOS)<br>
@@ -370,6 +359,7 @@ Aidos Utegulov (ETHOS)<br>
 Jarret David (ETHOS)<br>
 <br>
 <h4>Before 2007</h4><br>
+
 <br>
 
 
