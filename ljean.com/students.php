@@ -16,7 +16,8 @@
      <?php include('navLinks.html');?>
 
 </id>
-
+<br>
+<p>
 <br>
 <br>
 <p align="justify" id="content"> <a name="top"><strong>Students</strong><br> <br>
