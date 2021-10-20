@@ -19,8 +19,6 @@
 
 <br>
 <br>
-<p>
-<br>
 <p align="justify" id="content"> <a name="top"><strong>Students</strong><br> <br>
 <br>
 <p>&nbsp;</p>
