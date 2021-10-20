@@ -160,7 +160,7 @@ University Department of Psychology and Crane Naval, continuing to
    <A href="http://www.linkedin.com/pub/serena-chan/6/232/ab9"> Serena Chan</a> on reliability and hardening by using commodity computing in satellites.<br>
     <a href="http://www.news.harvard.edu/gazette/2002/10.24/10-belfer.html">Sabine 
     Schaffer</a> on trust in the Internet.<br>
-<a href="http://www.ccsr.cse.dmu.ac.uk/sara/">Sara Wilford</a> on privacy perceptions.
+<a href="http://www.ccsr.cse.dmu.ac.uk/sara/">Sara Wilford</a> on privacy perceptions.<br>
 <A href="https://scholar.google.com/citations?user=S3OptzMAAAAJ">Azadeh Nematzadeh</a> on health information privacy.
 
 <br>
