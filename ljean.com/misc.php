@@ -33,13 +33,11 @@ A set of questions from my own experience about <A href ="http://www.ljean.com/f
   and election in 2016,  <A href="http://www.ljean.com/NetworkData.php">please analyze</a> yourself.
   <br>
   <br>
-   <strong>Agree of Disagree: Get Involved Now</strong><br>
+
+    <strong>Get Involved Now</strong><br>
 </p><ul>
 <li><a href="http://www.ieeeusa.org/policy/default.asp">IEEE-USA</a> addresses a broad range of science and policy issues. Select the correct committee and get involved. The Computer Society is the oldest computing society in the US.<br>
-</li><li><a href="http://www.usacm.org/">USACM</a> addresses the
-issues most closely related to computing and public policy. USACM is
-focused  on the computing sciences.The USACM is the oldest computing
-organization in the US.<br>
+</li><li><a href="https://www.acm.org/public-policy/tpc">ACM TPC</a> addresses the issues most closely related to computing and public policy. USACM is focused  on the computing sciences.<br>
 </li><li><a href="http://www.aaas.org/">AAAS</a> has public policy fellowship, an amazing annual meeting, and a long-standing commitment to policy.
 </li></ul>
 
@@ -54,13 +52,14 @@ Washington, DC.
     <br>
     
 
-    When you contact a professor about working with them, check your grammar and spelling in Google Docs, Open Office, or MS Word before you send. When you send a cv or resume, send it in pdf. Even better send a pointer to a pdf. Do not send it in any of the document formats mentioned in the first line. 
+    When you contact a professor about working with them, check your grammar and spelling in Google Docs, Open Office, or MS Word before you send. When you send a cv or resume, send it in pdf. 
+    
  <a href="#top">to top</a>
     <br>
  
     <br>
 <br>Risk Communication Videos<br>
-<em>Target for Behavior Change not Education</em>
+<em>Target for Behavior Change, not general education</em>
 Is the goal is to ensure that individuals respond appropriately, or to have them exhibit a correct understanding of the mechanics of the risk. If this makes no sense to you, then you probably have some expertise in computer security.<br>
 Access control -<A href="http://www.youtube.com/watch?v=F9m6A4gWKX8"> http://www.youtube.com/watch?v=F9m6A4gWKX8</a>
 <br>
