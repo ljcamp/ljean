@@ -27,11 +27,11 @@
 <P align="justify">
     <br>
 
-    <A href="https://www.linkedin.com/in/pcaven/"> Peter Caven</a> is evaluating organizational as well as individual security behaviors.
+    <A href="https://www.linkedin.com/in/pcaven/"> Peter Caven</a> is evaluating organizational as well as individual security behaviors with a focus on securing the software and CPS supply chain.
     <br>
 <br>
 
-    <A href="https://www.linkedin.com/in/ece-gumusel-770582148/"> Ece Gumsel</a> is focusing on information exfiltration in emerging modes of interaction.
+    <A href="https://www.linkedin.com/in/ece-gumusel-770582148/"> Ece Gumsel</a> is focusing on privacy policies, compliance, and consumer requirements.
     <br>
 <br>
 
@@ -44,20 +44,16 @@
    
 
 
-     <A href="http://homes.soic.indiana.edu/dikim/">DongInn Kim</a> became a member of
-   the research group in summer 2017. His background is in computer
-   networking. He is our new lead on the CUTS CertProbe and the
-   CertWarehouse to more effectively share our data. His current focus is on diverse, trustworthy AI in security comparing local and global routing data.
+     <A href="http://homes.soic.indiana.edu/dikim/">DongInn Kim</a> is building proof that trustworthy AI does not require massive data exfiltration for secruity modeling purposes. 
 
 <br>
 <br>
-<A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is a master of human subjects
-experiments, data analysis, and insightful design in response to the findings.
+<A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is examining information exfiltration in emerging modes of interaction. 
 
 <br>
 <br>
 
-<A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneer contributions to the
+<A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneering contributions to the
 emerging standards for securing the IoT, particularly MUD and SBoM.
 
 <br>
@@ -70,11 +66,8 @@ emerging standards for securing the IoT, particularly MUD and SBoM.
     with embedded systems in the home.
    <br>
 <br>
-    <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> is
-    a doctoral student who previously worked with me on human-centered
-    design. His particular focus is cognitive alignment between human decision-making and
-    the demands of security interactions. He is moving into accessible
-    design with Sameer Patil.
+    <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> brings his experience in start-ups and compliance to data analytics on the oft-ignored issues of environmental impact, accessibility, and security.
+   
     <br>
 <br>
 CI Fellow and postdoctoral scholar <A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expands our
@@ -91,20 +84,17 @@ focus to the most vulnerable on the Internet - kids.
 
 
  <A  href="https://www.linkedin.com/in/sanchari-das/">Sanchari
-    Das</a> is focused on usable privacy and security, particularly
-    in the context of social computing. Her background is in
-    networking. Her current research uses human subjects experiments
-    in the lab and online (jointly supervised with Sameer Patil.)
+    Das</a> completed her dissertation on usable privacy and security with a particular focus on MFA. Her background is in
+    networking. 
 <br>
 <br>
 <A href="http://www.linkedin.com/in/deckard">Gary Deckard</a> has bridged two divides: military and academic, computer
    science and education. With extensive experience in operations and training,
   his dissertation examined the factors that lead to individual and collective success in a series of exercises and in classroom
-   practice. His interests are security, privacy, cybersecurity pedagogy, and
-security for Cyber Physical Systems.
+   practice.
     <br>
     <br>
-<A  href="https://scholar.google.com/citations?user=VgK7YqYAAAAJ">Shrirang Mare</a> is a post-doctoral scholar. He received his PhD from Dartmouth College, and his interests include security and privacy issues in pervasive computing, particularly in healthcare, usable security, and continuous authentication.  He recently completed a post-doctoral fellowship at the University of Washington.
+<A  href="https://scholar.google.com/citations?user=VgK7YqYAAAAJ">Shrirang Mare</a> joined us as a post-doctoral scholar. He received his PhD from Dartmouth College, and his interests include security and privacy issues in pervasive computing, particularly in healthcare, usable security, and continuous authentication.  He recently completed a post-doctoral fellowship at the University of Washington.
 <br>
 <br>
 <A  href="http://pmoriano.com/">Pablo Moriano</a> develops innovative models and methods for large-scale networks that can help in the understanding of the dynamical evolution of empirical network data. A direct application of this approach is in the field of anomaly detection in routing data. These research efforts are multi-disciplinary and encompass contributions from computer science, statistics, and physics.
@@ -113,42 +103,49 @@ security for Cyber Physical Systems.
 <A href="http://homes.soic.indiana.edu/ktbenton/">Kevin Benton</a> is
     focused on the dynamics of network security in both SDN and BGP.  In the past, in his
     internships at the Cambrigde University Computer Security
-    Laboratory and now at BigNetworks, his focus was on SDN. His work
+    Laboratory and now at SpaceX, his focus was on SDN. His work
 reminds us that engineers are humans too.
 <br>
 <br>
-    <a href="http://www.zhdong.net/">Zheng Dong</a> is a pioneer in using machine learning in the service of computer security. His dissertation applied machine learning to the detection of phishing sites (using certificate analysis), rogues certificates, and banking certificates.   He finished his masters thesis in spring 2010 on the topic of the marginal return for adding an individual into a social network for the purposes of recommendations or discovery. He works at Microsoft Seattle. 
+    <a href="http://www.zhdong.net/">Zheng Dong</a> is a pioneer in using machine learning in the service of computer security.
+     His dissertation applied machine learning to the detection of phishing sites (using certificate analysis), rogues certificates, and banking certificates.  
+      He finished his masters thesis in spring 2010 on the topic of the marginal return for adding an individual into a social network for the purposes of recommendations or discovery, which was prescient in its design focus of minimizing risk of data compilations. 
+      He works at Microsoft Redmond. 
    <br>
 <br>
  Post doctoral fellow   <A
     href="http://www.prashanthrajivan.com/home.html"> Prashanth
-    Rajivan</a> has moved to Carnegie Mellon. He is focused on the
+    Rajivan</a> joined the team as a post-doctoral scholar. He is focused on the
     psychology of security not only of individuals, but also as a
     function of group processes. 
     <br>
     <br>
-<A href="http://t34k3ttl3.wordpress.com/">Tim Kelley</a> combines
-    human experimentation with large scale modeling. His implements
+<A href="http://t34k3ttl3.wordpress.com/">Tim Kelley</a> combined
+    human experimentation with large scale modeling. His implemented
     complex systems models that integrate human behaviors as critical
-    variables. He is currently employed in a joint position at Indiana
-University Department of Psychology and Crane Naval, continuing to
-    combine brain science with network science. 
+    variables. His research 
+    combined brain science with network science, and included designing innovative tools for mouse-tracking and eye tracking. 
 <br>
     <br>
-   <A href="http://www.vaibhav.net">Vaibhav Garg</a> on ecrime, risk communication, and usable security. His work brought perceived risk methods to the study of on-line risk, as well as pioneering applications of crime science from criminal justice to online crime. He is Director of Security Awareness at VISA. <br>
+   <A href="http://www.vaibhav.net">Vaibhav Garg</a> on ecrime, risk communication, and usable security. His work brought perceived risk methods to the study of on-line risk, 
+   as well as pioneering applications of crime science to online crime.  <br>
     <br>
-   <A href="http://www.linkedin.com/in/debinliu">Debin Liu</a> on risk-based access control and usable security. His work included a mastery of quantitative tools combined with economic theories of security; such as applying contract theory to access control. After his time as a senior researcher at PayPal, he returned to China to built a first Chinese business credit rating agency.<br>
+   <A href="http://www.linkedin.com/in/debinliu">Debin Liu</a> on risk-based access control and usable security. His work included a mastery of quantitative tools combined with economic theories of security; such as applying contract theory to access control.
     <br>
-   <A href="http://www.linkedin.com/pub/camilo-viecco/2/17a/404">Camilo Veicco</a> on Tor. His redesign of TCP in Tor reduced delay, jitter, and prevented timing attacks. He is a senior scientist at Mozilla.<br>
     <br>
-<A href="http://www.linkedin.com/pub/alex-tsow/2/184/8a2">Alex Tsow</a> on making programming easier, usable security. Alex combined programming languages with usability to make the creation of secure code easier for developers. Alex was a post-doctoral fellow rather than a doctoral student. He is now at MITRE.<br>
+   <A href="http://www.linkedin.com/pub/camilo-viecco/2/17a/404">Camilo Veicco</a> on Tor. His redesign of TCP in Tor reduced delay, jitter, and prevented timing attacks. <br>
+    <br>
+<A href="http://www.linkedin.com/pub/alex-tsow/2/184/8a2">Alex Tsow</a> on making programming easier, usable security. Alex combined programming languages with usability to make the creation of secure code easier for developers. 
+Alex was a post-doctoral fellow after working in our group his last year in the doctoral program.<br>
     <br>
 <A href="http://www.soic.indiana.edu/people/profiles/duncan-john.shtml">J Duncan</a> on user-centered design, with a focus on ethical design of security experiments. He is a lecturer at IU.<br>
     <br>
 <a href="http://clintonschool.uasys.edu/faculty-research/warigia-bowman/">Warigia  Bowman</a> on ICT for development with  an interdisciplinary dissertation
-  on Internet diffusion in East Africa. She is a professor at the University of Arkansas.<br>
+  on Internet diffusion in East Africa. She is a professor of law.<br>
     <br>
-<a href="http://allan.friedmans.org/">Allan Friedman</a> on security and privacy. By combining game theory and social network modeling he was able to examine how information flowed across the combination of social and computing networks. His work pioneered the use of crowd-sourcing and peer production for diffusion of information sharing for community security and privacy (beyond open source communities). He is the Director of Cybersecurity Initiatives at National Telecommunications and Information Administration in the US Department of Commerce.  <br>
+<a href="http://allan.friedmans.org/">Allan Friedman</a> on security and privacy. By combining game theory and social network modeling he was able to examine how information flowed across the combination of social and computing networks. 
+His work pioneered the use of crowd-sourcing and peer production for diffusion of information sharing for community security and privacy (beyond open source communities). 
+As the Director of Cybersecurity Initiatives at National Telecommunications and Information Administration in the US Department of Commerce he created the SBOM initiative.  <br>
 <br>
 <br>
    
@@ -169,7 +166,8 @@ University Department of Psychology and Crane Naval, continuing to
  
 
 <h4></em></strong><em>Selected Excellent Masters Alumni</em><br></h4>
-This includes only those students in a Masters program who have worked with me on research beyond the classroom. If I have not included your name, please contact me and give me permission to do so. If you would like to withdraw permission, please also contact me. Exclusion does not in any way imply lack of excellence!
+This includes only those students in a Masters program who have worked with me on research beyond the classroom. If I have not included your name, please contact me and give me permission to do so.
+ If you would like to withdraw permission, please also contact me.  
 <br>
 <A href="http://www.linkedin.com/in/deckard">Hilda Hadan</a>
 works on perceptions and reality of PKI and privacy on the Internet, in smart cities, and in the IoT.  
@@ -236,7 +234,7 @@ Jill Minor<br>
 <br>
 
 <h4>REU Current and Past</h4><br>
-Supervised by myself and my research team, funded as part of research projects large and small or under targeted programs for undergraduate research.<br>
+Supervised by myself and my research team, funded as part of research projects large and small or funded by targeted programs for undergraduate research.<br>
 <br>
 <h4>2021 
 </h4>

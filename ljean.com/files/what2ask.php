@@ -35,11 +35,18 @@
 </li><li>Academic Keys has a mailing list <a href="http://www.academickeys.com/">http://www.academickeys.com/</a>
 </li><li>ACM has a list <a href="http://jobs.acm.org/">http://jobs.acm.org</a>.
 </li><li> Everyone knows to look at The Chronicle, <a href="http://chronicle.com/section/Jobs/61/">http://chronicle.com/</a> but not everyone knows that it is too expensive to post jobs there for postdocs, lecturers, and other faculty entry options. So in any faculty search it is important to be on all the relevant mailing lists.<br>
-</li><li> In security, look for postdocs on IAS Opportunities <a href="http://groups.google.com/group/ias-opportunities">http://groups.google.com/group/ias-opportunities</a>; the PETS mailing list <a href="http://lists.links.org/mailman/listinfo/pet">http://lists.links.org/mailman/listinfo/pet</a>; IACR <a href="http://www.iacr.org/news/index.php?p=mailreg">http://www.iacr.org/news/index.php?p=mailreg</a>; and if usable security is your thing make sure you are on the <a href="http://ljean.com/files/hcisec@yahoogroups.com">hcisec@yahoogroups.com </a> the little list and <a href="http://ljean.com/files/CHI-ANNOUNCEMENTS@listserv.acm.org">CHI-ANNOUNCEMENTS@listserv.acm.org</a> the big list.
-</li><li> For industry, in general, do NOT begin with human resources for an opportunity. Use social networking. Use <a href="http://linkedin.com/">Linked In</a> both to find opportunities and to connect with people in the company. HR departments, as far as I can tell, exist to keep companies from being sued when telling people, <q>no</q>. If they want to work with you an actual person (not a <q>human resource</q>) will contact you.
+</li><li> In security, look for postdocs on IAS Opportunities <a href="http://groups.google.com/group/ias-opportunities">http://groups.google.com/group/ias-opportunities</a>;
+     the PETS mailing list <a href="http://lists.links.org/mailman/listinfo/pet">http://lists.links.org/mailman/listinfo/pet</a>; 
+     IACR <a href="http://www.iacr.org/news/index.php?p=mailreg">http://www.iacr.org/news/index.php?p=mailreg</a>; 
+     and if usable security is your thing make sure you are on the <a href="https://mailman.srv.cs.cmu.edu/mailman/listinfo/soups-announce"> the little list focused on security and privacy</a>
+        and <a href="https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-ANNOUNCEMENTS">CHI-ANNOUNCEMENTS@listserv.acm.org</a> the big list.
+</li><li>  There is a <UK-focused></UK-focused> site,  <a href="https://jobtensor.com/uk">   for jobs in tech</a>
+</li><li> For industry, in general, do NOT begin with contacting human resources for an opportunity. Use social networking. Use <a href="http://linkedin.com/">Linked In</a> both to find opportunities and to connect with people in the company. 
+    HR departments, as far as I can tell, exist to keep companies from being sued when telling people, <q>no</q>. If they want to work with you an actual person (not a <q>human resource</q>) will contact you.
 </li></ul>
 
     <strong>What to Ask For the Academic</strong><br>
+    This is an inclusive, not ordered list. Each of these are questions which have influenced a person`s experience and ability to thrive. 
 <ul>
 <li><em>Appointment unit</em> including when the appointment is shared, adjunct, or courtesy
 </li><li><em>Service expectations</em> for joint appointments (shared, adjunct, or courtesy).
@@ -64,15 +71,15 @@
     <ul>
         <li>If you have funding can you admit the students for which you have funding?</li>
         <li>Are students committed to faculty upon entering or is there a year or so of open exploration? On one side, when you walk in will there be a student pool from which you can recruit, or will it take a year? Conversely, if you admit a student can you reasonably expect that student to remain on our projects? Either way is fine but planning is different.</li>
-        <li>How much funding is required for an admission?</li>
+        <li>How much funding is required for an admission? Domestic or international tuition? One year or more?</li>
         <li>What are the mechanics of admission? How are students admitted?</li>
         <li>If you have no funding but teach, can you allocated your teaching assistant slots to the doctoral students?</li>
     </ul>
 </li><li><em>Normal teaching duties</em> not only specifics to negotiate, but what is the baseline?
 </li><li><em>Teaching relief</em> given how often and under what conditions? Is it common?
-</li><li><em>Teaching distributions</em>, will you get the grad class you need to recruit good students?
+</li><li><em>Teaching distributions</em>, will you get the graduate seminar in your first year or semester to recruit good students?
 </li><li><em>Teaching assistants</em>, can you choose your own TA? Can you use the TA support for your classes to support your students or does the department distribute them all as aid?
-</li><li><em>Service</em> what would be considered average, minimal and excellent service? Are junior faculty encouraged to seek excellence in service?
+</li><li><em>Service</em> what would be considered average, minimal and excellent service? Are junior faculty encouraged to seek excellence in service? How is it documented?
 </li><li><em>Consulting</em> is usually alowed but is it supported? How does consulting interact with the intellectual property policy?
 </li><li><em>Want to start a company?</em> 
 <ul>
@@ -82,11 +89,10 @@
     <li> Who else has started a business? Can you meet or talk on the phone with him or her?</li>
     <li> Can you support students with business funds? Has it been done? What changes (e.g., do you have to pay for student space)?</li>
 </ul>
-      </li> 
-
-
-</li><li>A nice pdf that sums up the issues <a href="http://www.umich.edu/~advproj/Job_Offer_Options.pdf">Negotiable</a>
-</li>
+      
+</li> Considering which questions apply to your research goals, perceptions of belonging, and requirements. One way to ask the questions is to query the Dean about how things are handled, then ask 
+some of the more mundane questions to the faculty (e.g., furniture, computing) to evaluate his negotiating stance and transparency. Asking about service can provide insight to the departmental culture, 
+particularly if service for diversity, inclusion, and belonging is invisible or rewarded.
 </ul>
 
 <p>&nbsp;</p>
@@ -98,9 +104,9 @@ I would welcome comments, improvement, advice.
 <li><em>Appointment title or titles</em> in business titles are never permanent but they do have profound organizational complexity.</li>
 <li><em>Career Path</em> includes forking options for example, technical versus management long term paths. </li>
 <li><em>Appointment unit</em> are there five dotted lines?</li>
-<li><em>Evaluation</em> who actually decides your salary and resource requests?</li>
+<li><em>Evaluation</em> who actually decides your salary and resource requests? What is the role of those dotted lines?</li>
 <li><em>Starting date</em> amazingly variable to the degree to which they are  negotiable.</li>
-<li><em>Living expenses</em> moving cost,  and housing allowances are all part of living expenses. Usually moving requires three quotes from three movers, but sometimes there is a cap. </li>
+<li><em>Living expenses</em> moving cost,  and housing allowances are all part of living expenses. Usually moving requires three quotes from three movers, but sometimes there is simply a grant. </li>
 <li><em> Benefits</em> dental, spousal, and if there exist any choice?</li>
  <li><em>Leaves</em> Fulbright  and other wards can be for professionals too, but also to work in the academy or in government.</li>
  <li><em>Travel policies</em> although corporate travel budgets appear strangely inexhaustible to the academic.</li>
@@ -108,13 +114,11 @@ I would welcome comments, improvement, advice.
  <li><em>Facilities/space</em> because if you do not ask for it during the negotiation stage you will never get it.</li>
  <li><em>Staff support</em> is something you can only get theory on this but the theory is an important starting place.</li>
  <li><em>Research support</em> includes ability to obtain interns and jointly supervise students. Can you hire post-docs? What is the budget and who decides?</li>
- <li><em>How will you be evaluated?</em>  in the academy the measures are citations, publications, reviews in some cases fund-raising. A CAREER grant if often the gold standard. What are the bronze, gold, silver standards for your job?</li>
+ <li><em>How will you be evaluated?</em>  in the academy the measures are citations, publications, reviews, and impact. A CAREER grant if often the gold standard.
+  What are the bronze, gold, silver standards for your job?</li>
     <li><em>Pay</em> is obvious, usually vesting is obvious but always ask for more than the initial offer in terms of salary. </li>
  </ul>
 <p>&nbsp;</p>
-Other lists
-From the employer perspective, short and kind of obvious, <a href="http://www.yourpeoplemanager.com/YahbQ9ZoivVsHw.html">http://www.yourpeoplemanager.com/YahbQ9ZoivVsHw.html</a>
-<br><br>
 And how your publications are likely to be evaluated, here are three lists:
 <ul>
 <li><a href="http://www.cs.albany.edu/~ashwin/Conf_rank.html">http://www.cs.albany.edu/~ashwin/Conf_rank.html</a>
