@@ -24,7 +24,7 @@
     <strong>Get Involved Now</strong><br>
 </p><ul>
 <li><a href="http://www.ieeeusa.org/policy/default.asp">IEEE-USA</a> addresses a broad range of science and policy issues. Select the correct committee and get involved. The Computer Society is the oldest computing society in the US.<br>
-</li><li><a href="http://www.usacm.org/">USACM</a> addresses the issues most closely related to computing and public policy. USACM is focused  on the computing sciences.<br>
+</li><li><a href="https://www.acm.org/public-policy/tpc">ACM TPC</a> addresses the issues most closely related to computing and public policy. USACM is focused  on the computing sciences.<br>
 </li><li><a href="http://www.aaas.org/">AAAS</a> has public policy fellowship, an amazing annual meeting, and a long-standing commitment to policy.
 </li></ul>
 
@@ -40,7 +40,7 @@
      IACR <a href="http://www.iacr.org/news/index.php?p=mailreg">http://www.iacr.org/news/index.php?p=mailreg</a>; 
      and if usable security is your thing make sure you are on the <a href="https://mailman.srv.cs.cmu.edu/mailman/listinfo/soups-announce"> the little list focused on security and privacy</a>
         and <a href="https://listserv.acm.org/SCRIPTS/WA-ACMLPX.CGI?A0=CHI-ANNOUNCEMENTS">CHI-ANNOUNCEMENTS@listserv.acm.org</a> the big list.
-</li><li>  There is a <UK-focused></UK-focused> site,  <a href="https://jobtensor.com/uk">   for jobs in tech</a>
+</li><li>  There is a site focused on the UK: <a href="https://jobtensor.com/uk">   for jobs in tech</a>
 </li><li> For industry, in general, do NOT begin with contacting human resources for an opportunity. Use social networking. Use <a href="http://linkedin.com/">Linked In</a> both to find opportunities and to connect with people in the company. 
     HR departments, as far as I can tell, exist to keep companies from being sued when telling people, <q>no</q>. If they want to work with you an actual person (not a <q>human resource</q>) will contact you.
 </li></ul>
