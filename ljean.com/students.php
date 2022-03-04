@@ -238,7 +238,6 @@ Supervised by myself and my research team, funded as part of research projects l
 <br>
 <h4>2021 
 </h4>
-Ashley Bocher<br>
 Ashley Bochner<br>
 Shaurya  Swami<br>
 Skyler Johnson  <br>
