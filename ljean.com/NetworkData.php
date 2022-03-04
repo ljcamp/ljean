@@ -44,6 +44,9 @@ After these letters Alfa Bank sent <A href="http://ljean.com/files/AlfaBankLette
       <A href="http://www.ljean.com/NetworkRecords/Alfa_appeal_vacate_20210519_opinion.pdf">Next Court Disagrees with first court and with EFF</a><br>
 </p>
    <p>
+      
+<p>And here is where, thirteen days short of five years after the first letter, Alfa Bank surrenders<br>
+   <A href="http://ljean.com/NetworkRecords/surrenderMonkey.pdf">Alfa Bank finally give up</a><br>
 <p>
 However, at the same time Alfa Bank was sending the letter above, they also were pursuing a public records request with Indiana University. Please note that Indiana University does not have access to all the email accounts they request. The other parties in this letter come not from any investigations or factual requests, but rather from unsubstantiated assertions by people with zero knowledge of matter. As far as I can tell, Alfa Bank selected these names from random stangers on Twitter and Reddit. Here is the <A href="http://ljean.com/files/AlfaBankLetter3.pdf">Alfa FOIA request</a>
 </p>
