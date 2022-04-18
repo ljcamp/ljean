@@ -31,7 +31,11 @@
     <br>
 <br>
 
-    <A href="https://www.linkedin.com/in/ece-gumusel-770582148/"> Ece Gumsel</a> is focusing on privacy policies, compliance, and consumer requirements.
+    <A href="http://academic.shubhaviarya.org/"> Shubhavi Arya</a> is focusing on empowering end users.
+    <br>
+<br>
+
+<A href="https://www.linkedin.com/in/dalyapraz/"> Dalya Manatova</a> is using data science to quantify the dynamics of online trust.
     <br>
 <br>
 
