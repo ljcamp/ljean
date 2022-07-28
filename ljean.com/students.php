@@ -14,7 +14,6 @@
 <div id="title"></div>
 <p id="nav">
      <?php include('navLinks.html');?>
-
 </id>
 <br>
 <p>
@@ -26,12 +25,14 @@
     <h4><em>Current Doctoral Students</em><br></h4>
 <P align="justify">
     <br>
-
+<A href="https://www.linkedin.com/in/canesu/">Anesu Chaora</a> brings a mastery of organizational, compliance, and technical perspectives of security.
+    <bf>
+        <br>
     <A href="https://www.linkedin.com/in/pcaven/"> Peter Caven</a> is evaluating organizational as well as individual security behaviors with a focus on securing the software and CPS supply chain.
     <br>
 <br>
 
-    <A href="http://academic.shubhaviarya.org/"> Shubhavi Arya</a> is focusing on empowering end users.
+    <u> Xinyao Ma</u> is focusing on combining sensing and AI for end to end empowerment against fraud.
     <br>
 <br>
 
@@ -42,27 +43,9 @@
 
    <A href="https://lauracalloway.com/">Laura Calloway</a>
      is examining information exfiltration on personal health devices. She is comparing the perceptions and reality of personal and health information, considering both security and privacy.
-
-     <br>
-     <br>
-   
-
-
-     <A href="http://homes.soic.indiana.edu/dikim/">DongInn Kim</a> is building proof that trustworthy AI does not require massive data exfiltration for secruity modeling purposes. 
-
+  
 <br>
 <br>
-<A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is examining information exfiltration in emerging modes of interaction. 
-
-<br>
-<br>
-
-<A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneering contributions to the
-emerging standards for securing the IoT, particularly MUD and SBoM.
-
-<br>
-<br>
-
 <A
     href="https://www.linkedin.com/in/shakthidhar-gopavaram-ba576035">Shakthidhar
     Gopavaram</a> is evaluating human risk taking, including comparive
@@ -70,23 +53,36 @@ emerging standards for securing the IoT, particularly MUD and SBoM.
     with embedded systems in the home.
    <br>
 <br>
-    <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> brings his experience in start-ups and compliance to data analytics on the oft-ignored issues of environmental impact, accessibility, and security.
-   
-    <br>
-<br>
-CI Fellow and postdoctoral scholar <A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expands our
-focus to the most vulnerable on the Internet - kids.
-   <br><br>
+   Post doctoral Fellow <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> brings his experience in start-ups and compliance to data analytics on the oft-ignored issues of environmental impact, accessibility, and security.
 
    <br><br>
+Engaging with <A href="https://www.linkedin.com/in/victor-zhang-b6a85430/">Viktor Zhang</a> on design of authentication. He is primarily in HCI/d.
+<br><br>
+Engaging with <A href="https://www.linkedin.com/in/william-smeal-phd-abd-6433b2163/"> William Smeal</a>, a Fulbright Scholar in Bulgaria and expert in  Cyrillic  languages and culture, on phishing resilience.
+   <br><br>
 <h4>Alumni</h4>
+<br>
+     <br>
+     <A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is examining information exfiltration in emerging modes of interaction. 
+
+<br>
+<br>
+<A href="http://homes.soic.indiana.edu/dikim/">DongInn Kim</a> built proof that trustworthy AI does not require massive data exfiltration for secruity modeling purposes. 
+     <br>
+<br>
+ 
+CI Fellow and postdoctoral scholar <A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expanded our
+focus to the most vulnerable on the Internet - kids. She is now an Assistant Professor at Purdue.
+<br>
+<br>
+<A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneering contributions to the
+emerging standards for securing the IoT, particularly MUD and SBoM.<br>
+<br>
 
 <A href="https://www.linkedin.com/in/behnood-momenzadeh-202b374a">Behnood
     Momenzadeh</a> focused on evaluating cryptocurrency as a human, macroeconomic, and financial instrument. 
    <br>
 <br>
-
-
  <A  href="https://www.linkedin.com/in/sanchari-das/">Sanchari
     Das</a> completed her dissertation on usable privacy and security with a particular focus on MFA. Her background is in
     networking. 
@@ -117,7 +113,9 @@ reminds us that engineers are humans too.
       He works at Microsoft Redmond. 
    <br>
 <br>
- Post doctoral fellow   <A
+
+
+Post doctoral fellows   <A
     href="http://www.prashanthrajivan.com/home.html"> Prashanth
     Rajivan</a> joined the team as a post-doctoral scholar. He is focused on the
     psychology of security not only of individuals, but also as a
@@ -240,8 +238,14 @@ Jill Minor<br>
 <h4>REU Current and Past</h4><br>
 Supervised by myself and my research team, funded as part of research projects large and small or funded by targeted programs for undergraduate research.<br>
 <br>
-<h4>2021 
-</h4>
+<h4>2022 </h4>
+Shivani Sadam <br>
+Skyler Johnson<br>
+Meera Iyer <br>
+Sahar Rabiei <br>
+Joe Wayne Majors<br>
+<br>
+<h4>2021 </h4>
 Ashley Bochner<br>
 Shaurya  Swami<br>
 Skyler Johnson  <br>
