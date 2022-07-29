@@ -26,8 +26,8 @@
 <P align="justify">
     <br>
 <A href="https://www.linkedin.com/in/canesu/">Anesu Chaora</a> brings a mastery of organizational, compliance, and technical perspectives of security.
-    <bf>
-        <br>
+<br>
+     <br>
     <A href="https://www.linkedin.com/in/pcaven/"> Peter Caven</a> is evaluating organizational as well as individual security behaviors with a focus on securing the software and CPS supply chain.
     <br>
 <br>
@@ -61,8 +61,7 @@ Engaging with <A href="https://www.linkedin.com/in/victor-zhang-b6a85430/">Vikto
 Engaging with <A href="https://www.linkedin.com/in/william-smeal-phd-abd-6433b2163/"> William Smeal</a>, a Fulbright Scholar in Bulgaria and expert in  Cyrillic  languages and culture, on phishing resilience.
    <br><br>
 <h4>Alumni</h4>
-<br>
-     <br>
+
      <A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is examining information exfiltration in emerging modes of interaction. 
 
 <br>
