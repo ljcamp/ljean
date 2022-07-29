@@ -56,9 +56,9 @@
    Post doctoral Fellow <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> brings his experience in start-ups and compliance to data analytics on the oft-ignored issues of environmental impact, accessibility, and security.
 
    <br><br>
-Engaging with <A href="https://www.linkedin.com/in/victor-zhang-b6a85430/">Viktor Zhang</a> on design of authentication. He is primarily in HCI/d.
+As a committee member, working with <A href="https://www.linkedin.com/in/victor-zhang-b6a85430/">Viktor Zhang</a> on design of authentication. He is primarily in HCI/d.
 <br><br>
-Engaging with <A href="https://www.linkedin.com/in/william-smeal-phd-abd-6433b2163/"> William Smeal</a>, a Fulbright Scholar in Bulgaria and expert in  Cyrillic  languages and culture, on phishing resilience.
+As a committee member, working with  <A href="https://www.linkedin.com/in/william-smeal-phd-abd-6433b2163/"> William Smeal</a>, a Fulbright Scholar in Bulgaria and expert in  Cyrillic  languages and culture, on phishing resilience.
    <br><br>
 <h4>Alumni</h4>
 
