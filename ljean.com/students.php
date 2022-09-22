@@ -180,9 +180,7 @@ works on perceptions and reality of PKI and privacy on the Internet, in smart ci
     <A href="http://www.isec.co.in/">Sanjay Pandey</a> has spent his
     career innovating for secure, reliable, and transparent use of ICTs in
 India.<br>
-<A href="http://www.norcie.com"">Greg Norcie</a> the intersection of
-    public policy, traditional usability with security and privacy. 
-    <br>
+<!--<A href="http://www.norcie.com"">Greg Norcie</a> the intersection of   public policy, traditional usability with security and privacy.  <br>-->
 <A href="http://www.informatik.uni-trier.de/~ley/pers/hd/a/Asgharpour:Farzaneh">Farzaneh Asgharpour</a> did pioneering work applying mental models to usable security.
 <br>
 <A href="http://www.linkedin.com/in/tbross">Ty Bross</a> on mobile device security.
@@ -289,6 +287,7 @@ Olivia Kenny<br>
 Clint McElroy<br>
 Brad Lufkin (MACRO)<br>
 Liberty Flora (MACRO)<br>
+Jared Stemper<br>
 <br>
 <h4>2016</h4>
 Rachel Huss<br>
