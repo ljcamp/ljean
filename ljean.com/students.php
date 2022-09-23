@@ -32,7 +32,7 @@
     <br>
 <br>
 
-    <u> Xinyao Ma</u> is focusing on combining sensing and AI for end to end empowerment against fraud.
+    <a href="https://www.linkedin.com/in/xinyao-ma-423b0b173/"> Xinyao Ma</a> is focusing on combining sensing and AI for end to end empowerment against fraud.
     <br>
 <br>
 
