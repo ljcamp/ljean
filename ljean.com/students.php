@@ -106,7 +106,7 @@ emerging standards for securing the IoT, particularly MUD and SBoM.<br>
 reminds us that engineers are humans too.
 <br>
 <br>
-    <a href="http://www.zhdong.net/">Zheng Dong</a> is a pioneer in using machine learning in the service of computer security.
+    <a href="https://www.linkedin.com/in/zhdong/">Zheng Dong</a> is a pioneer in using machine learning in the service of computer security.
      His dissertation applied machine learning to the detection of phishing sites (using certificate analysis), rogues certificates, and banking certificates.  
       He finished his masters thesis in spring 2010 on the topic of the marginal return for adding an individual into a social network for the purposes of recommendations or discovery, which was prescient in its design focus of minimizing risk of data compilations. 
       He works at Microsoft Redmond. 
@@ -114,14 +114,13 @@ reminds us that engineers are humans too.
 <br>
 
 
-Post doctoral fellows   <A
-    href="http://www.prashanthrajivan.com/home.html"> Prashanth
-    Rajivan</a> joined the team as a post-doctoral scholar. He is focused on the
-    psychology of security not only of individuals, but also as a
-    function of group processes. 
+Post doctoral fellow  <A
+    href="https://ise.washington.edu/people/faculty/rajivan"> Prashanth
+    Rajivan</a> joined the team as a post-doctoral scholar. His focused on the
+    psychology of security not only of individuals, organizations, and collaborations.
     <br>
     <br>
-<A href="http://t34k3ttl3.wordpress.com/">Tim Kelley</a> combined
+<u>Tim Kelley</u> combined
     human experimentation with large scale modeling. His implemented
     complex systems models that integrate human behaviors as critical
     variables. His research 
@@ -233,14 +232,15 @@ Jill Minor<br>
 <br>
 
 <h4>REU Current and Past</h4><br>
-Supervised by myself and my research team, funded as part of research projects large and small or funded by targeted programs for undergraduate research.<br>
+This is not an exhaustive list. I include students who joined my research team, funded as part of research projects large and small,  or funded by targeted programs for undergraduate research. Slowly adding links. If I have not yet included you, please let me know. If I included you and you would rather I not, please let me know about that as well. <br>
 <br>
 <h4>2022 </h4>
-Shivani Sadam <br>
-Skyler Johnson<br>
-Meera Iyer <br>
-Sahar Rabiei <br>
-Joe Wayne Majors<br>
+<A href="https://www.linkedin.com/in/nadiasabry/">Nadia Sabry</a> <br>
+<A href="https://www.linkedin.com/in/shivanisadamksb/">Shivani Sadam </a> <br>
+<A href="https://www.linkedin.com/in/skyler-j-0272ab195/">Skyler Johnson</a> <br>
+<A href="https://www.linkedin.com/in/meeraiyeriu/">Meera Iyer </a> <br>
+<A href="https://www.linkedin.com/in/sahar-rabiei/">Sahar Rabiei </a> <br>
+<A href="https://www.linkedin.com/in/joe-majors-4579bb138/">Joe Majors</a> <br>
 <br>
 <h4>2021 </h4>
 Ashley Bochner<br>
