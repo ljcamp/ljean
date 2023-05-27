@@ -31,12 +31,15 @@
     <A href="https://www.linkedin.com/in/pcaven/"> Peter Caven</a> is evaluating organizational as well as individual security behaviors with a focus on securing the software and CPS supply chain.
     <br>
 <br>
-
-    <a href="https://www.linkedin.com/in/xinyao-ma-423b0b173/"> Xinyao Ma</a> is focusing on combining sensing and AI for end to end empowerment against fraud.
+<a href="https://www.linkedin.com/in/ambarish-gurjar-693a78129/">Ambarish Gurjar</a> leverages temporal graphs to generate risk profiles.
     <br>
 <br>
 
-<A href="https://www.linkedin.com/in/dalyapraz/"> Dalya Manatova</a> is using data science to quantify the dynamics of online trust.
+    <a href="https://www.linkedin.com/in/xinyao-ma-423b0b173/"> Xinyao Ma</a> is focusing on combining sensing and AI for detecting and defeating fraud.
+    <br>
+<br>
+
+<A href="https://www.linkedin.com/in/dalyapraz/"> Dalya Manatova</a> is using data science to quantify the dynamics of online trust with a particular focus on ecrime.
     <br>
 <br>
 
@@ -44,13 +47,7 @@
    <A href="https://lauracalloway.com/">Laura Calloway</a>
      is examining information exfiltration on personal health devices. She is comparing the perceptions and reality of personal and health information, considering both security and privacy.
   
-<br>
-<br>
-<A
-    href="https://www.linkedin.com/in/shakthidhar-gopavaram-ba576035">Shakthidhar
-    Gopavaram</a> is evaluating human risk taking, including comparive
-    global analyses of risk-taking on the web-based risk-taking and local analyses of risk-taking
-    with embedded systems in the home.
+
    <br>
 <br>
    Post doctoral Fellow <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> brings his experience in start-ups and compliance to data analytics on the oft-ignored issues of environmental impact, accessibility, and security.
@@ -62,7 +59,12 @@ As a committee member, working with  <A href="https://www.linkedin.com/in/willia
    <br><br>
 <h4>Alumni</h4>
 
-     <A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> is examining information exfiltration in emerging modes of interaction. 
+<A
+    href="https://www.linkedin.com/in/shakthidhar-gopavaram-ba576035">Shakthidhar
+    Gopavaram</a> evaluated human risk taking.
+    <br>
+<br>
+     <A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> examined information exfiltration in emerging modes of interaction. 
 
 <br>
 <br>
