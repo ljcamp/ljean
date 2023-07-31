@@ -52,6 +52,10 @@
 <br>
    Post doctoral Fellow <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> brings his experience in start-ups and compliance to data analytics on the oft-ignored issues of environmental impact, accessibility, and security.
 
+   
+   <br>
+<br>
+   Post doctoral Fellow <A href="hhttps://www.linkedin.com/in/shaghamar/"> Shagha Mardani </a> integrates performance optimization with security for both web and mobile applications. 
    <br><br>
 As a committee member, working with <A href="https://www.linkedin.com/in/victor-zhang-b6a85430/">Viktor Zhang</a> on design of authentication. He is primarily in HCI/d.
 <br><br>
