@@ -75,9 +75,9 @@ As a committee member, working with  <A href="https://www.linkedin.com/in/willia
 <br>
 <A href="http://homes.soic.indiana.edu/dikim/">DongInn Kim</a> built proof that trustworthy AI does not require massive data exfiltration for secruity modeling purposes. 
      <br>
+<br>\<A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> full stack privacy engineer and human factors expert.
+     <br>
 <br>
- 
-
 <A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneering contributions to the
 emerging standards for securing the IoT, particularly MUD and SBoM.<br>
 <br>
