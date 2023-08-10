@@ -25,6 +25,9 @@
     <h4><em>Current Doctoral Students</em><br></h4>
 <P align="justify">
     <br>
+    <A href="https://www.linkedin.com/in/canesu/">Anesu Chaora</a> brings a mastery of organizational, compliance, and technical perspectives of security.
+<br>
+     <br>
 <A href="https://www.linkedin.com/in/canesu/">Anesu Chaora</a> brings a mastery of organizational, compliance, and technical perspectives of security.
 <br>
      <br>
@@ -62,13 +65,11 @@ As a committee member, working with <A href="https://www.linkedin.com/in/victor-
 As a committee member, working with  <A href="https://www.linkedin.com/in/william-smeal-phd-abd-6433b2163/"> William Smeal</a>, a Fulbright Scholar in Bulgaria and expert in  Cyrillic  languages and culture, on phishing resilience.
    <br><br>
 <h4>Alumni</h4>
-
-<A
-    href="https://www.linkedin.com/in/shakthidhar-gopavaram-ba576035">Shakthidhar
-    Gopavaram</a> evaluated human risk taking.
+<A   href="https://www.linkedin.com/in/shakthidhar-gopavaram-ba576035">Shakthidhar
+    Gopavaram</a> evaluated human risk taking combining behavorial economics and full stack development to examine expressed and revealed preferences. 
     <br>
 <br>
-     <A href="https://www.linkedin.com/in/jayati-dev/">Jayati Dev</a> examined information exfiltration in emerging modes of interaction. 
+     <A href="https://github.com/ndokmai">Ko Dokmai</a> is building privacy into the infrastructure. 
 
 <br>
 <br>
@@ -76,10 +77,7 @@ As a committee member, working with  <A href="https://www.linkedin.com/in/willia
      <br>
 <br>
  
-CI Fellow and postdoctoral scholar <A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expanded our
-focus to the most vulnerable on the Internet - kids. She is now an Assistant Professor at Purdue.
-<br>
-<br>
+
 <A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneering contributions to the
 emerging standards for securing the IoT, particularly MUD and SBoM.<br>
 <br>
@@ -94,18 +92,15 @@ emerging standards for securing the IoT, particularly MUD and SBoM.<br>
 <br>
 <br>
 <A href="http://www.linkedin.com/in/deckard">Gary Deckard</a> has bridged two divides: military and academic, computer
-   science and education. With extensive experience in operations and training,
-  his dissertation examined the factors that lead to individual and collective success in a series of exercises and in classroom
+   science and education. His dissertation examined the factors that lead to individual and collective success in a series of exercises and in classroom
    practice.
     <br>
     <br>
-<A  href="https://scholar.google.com/citations?user=VgK7YqYAAAAJ">Shrirang Mare</a> joined us as a post-doctoral scholar. He received his PhD from Dartmouth College, and his interests include security and privacy issues in pervasive computing, particularly in healthcare, usable security, and continuous authentication.  He recently completed a post-doctoral fellowship at the University of Washington.
-<br>
-<br>
+
 <A  href="http://pmoriano.com/">Pablo Moriano</a> develops innovative models and methods for large-scale networks that can help in the understanding of the dynamical evolution of empirical network data. A direct application of this approach is in the field of anomaly detection in routing data. These research efforts are multi-disciplinary and encompass contributions from computer science, statistics, and physics.
 <br>
 <br>
-<A href="http://homes.soic.indiana.edu/ktbenton/">Kevin Benton</a> is
+<A href="https://www.linkedin.com/in/ktbenton/">Kevin Benton</a> is
     focused on the dynamics of network security in both SDN and BGP.  In the past, in his
     internships at the Cambrigde University Computer Security
     Laboratory and now at SpaceX, his focus was on SDN. His work
@@ -119,8 +114,35 @@ reminds us that engineers are humans too.
    <br>
 <br>
 
+<A href="http://www.vaibhav.net">Vaibhav Garg</a> on ecrime, risk communication, and usable security. His work brought perceived risk methods to the study of on-line risk, 
+   as well as pioneering applications of crime science to online crime.  <br>
+    <br>
+   <A href="http://www.linkedin.com/in/debinliu">Debin Liu</a> on risk-based access control and usable security. His work included a mastery of quantitative tools combined with economic theories of security; such as applying contract theory to access control.
+    <br>
+    <br>
+   <A href="http://www.linkedin.com/pub/camilo-viecco/2/17a/404">Camilo Veicco</a> on Tor. His redesign of TCP in Tor reduced delay, jitter, and prevented timing attacks. <br>
+    <br>
 
-Post doctoral fellow  <A
+<A href="http://www.soic.indiana.edu/people/profiles/duncan-john.shtml">J Duncan</a> on user-centered design, with a focus on ethical design of security experiments. He is a lecturer at IU.<br>
+    <br>
+<a href="https://www.linkedin.com/in/warigiabowman/">Warigia  Bowman</a> on ICT for development with  an interdisciplinary dissertation
+  on Internet diffusion in East Africa. She is a professor of law.<br>
+    <br>
+<a href="http://allan.friedmans.org/">Allan Friedman</a> on security and privacy. By combining game theory and social network modeling he was able to examine how information flowed across the combination of social and computing networks. 
+His work pioneered the use of crowd-sourcing and peer production for diffusion of information sharing for community security and privacy (beyond open source communities). 
+As the Director of Cybersecurity Initiatives at National Telecommunications and Information Administration and now in CISA at DHS, ask him about SBOM.   <br>
+<br>
+<br>
+<h4></em></strong><em>Post doctoral fellows </em><br></h4>
+
+<A href="http://www.linkedin.com/pub/alex-tsow/2/184/8a2">Alex Tsow</a> on making programming easier, usable security. Alex combined programming languages with usability to make the creation of secure code easier for developers. 
+Alex was a post-doctoral fellow after working in our group his last year in the doctoral program.<br>
+    <br><br>
+<br>
+CI Fellow and postdoctoral scholar <A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expanded our
+focus to the most vulnerable on the Internet - kids. She is now an Assistant Professor at Purdue.
+<br>
+<br> <A
     href="https://ise.washington.edu/people/faculty/rajivan"> Prashanth
     Rajivan</a> joined the team as a post-doctoral scholar. His focused on the
     psychology of security not only of individuals, organizations, and collaborations.
@@ -133,40 +155,21 @@ Post doctoral fellow  <A
     combined brain science with network science, and included designing innovative tools for mouse-tracking and eye tracking. 
 <br>
     <br>
-   <A href="http://www.vaibhav.net">Vaibhav Garg</a> on ecrime, risk communication, and usable security. His work brought perceived risk methods to the study of on-line risk, 
-   as well as pioneering applications of crime science to online crime.  <br>
-    <br>
-   <A href="http://www.linkedin.com/in/debinliu">Debin Liu</a> on risk-based access control and usable security. His work included a mastery of quantitative tools combined with economic theories of security; such as applying contract theory to access control.
-    <br>
-    <br>
-   <A href="http://www.linkedin.com/pub/camilo-viecco/2/17a/404">Camilo Veicco</a> on Tor. His redesign of TCP in Tor reduced delay, jitter, and prevented timing attacks. <br>
-    <br>
-<A href="http://www.linkedin.com/pub/alex-tsow/2/184/8a2">Alex Tsow</a> on making programming easier, usable security. Alex combined programming languages with usability to make the creation of secure code easier for developers. 
-Alex was a post-doctoral fellow after working in our group his last year in the doctoral program.<br>
-    <br>
-<A href="http://www.soic.indiana.edu/people/profiles/duncan-john.shtml">J Duncan</a> on user-centered design, with a focus on ethical design of security experiments. He is a lecturer at IU.<br>
-    <br>
-<a href="http://clintonschool.uasys.edu/faculty-research/warigia-bowman/">Warigia  Bowman</a> on ICT for development with  an interdisciplinary dissertation
-  on Internet diffusion in East Africa. She is a professor of law.<br>
-    <br>
-<a href="http://allan.friedmans.org/">Allan Friedman</a> on security and privacy. By combining game theory and social network modeling he was able to examine how information flowed across the combination of social and computing networks. 
-His work pioneered the use of crowd-sourcing and peer production for diffusion of information sharing for community security and privacy (beyond open source communities). 
-As the Director of Cybersecurity Initiatives at National Telecommunications and Information Administration in the US Department of Commerce he created the SBOM initiative.  <br>
+    <A  href="https://scholar.google.com/citations?user=VgK7YqYAAAAJ">Shrirang Mare</a> joined us as a post-doctoral scholar. He received his PhD from Dartmouth College, and his interests include security and privacy issues in pervasive computing, particularly in healthcare, usable security, and continuous authentication.  He recently completed a post-doctoral fellowship at the University of Washington.
 <br>
 <br>
    
-    <br>  <h4></em></strong><em>Doctoral Alumni, Joint  Advisor or Committee</em></h4>
-   <A href="https://www.researchgate.net/profile/Yasmeen-Rashidi"> Yasmeen Rashidi </a><br>
-<A href="http://homes.soic.indiana.edu/zhou/">Xiaoyong Zhou</a> on mobile security.<br>
+    <br>  <h4></em></strong><em>Doctoral Alumni, Joint  Advisor </em></h4>
+<A href="https://www.linkedin.com/in/xiaoyongzhou/">Xiaoyong Zhou</a> on mobile security.<br>
 <A href="http://research.microsoft.com/en-us/um/people/ruiwan/">Rui Wang</a> on malware and security in ecommerce.<br>
     <a href="http://carlos-osorio.cl/">Carlos Osorio</a> on ICT for development, innovation, security and privacy.<br>
 <A href="https://scholar.google.com/citations?user=pCwR3ZEAAAAJ">Kristiina Karvonen</a> for whom I was a doctoral opponent.<br>
    <A href="http://www.linkedin.com/pub/serena-chan/6/232/ab9"> Serena Chan</a> on reliability and hardening by using commodity computing in satellites.<br>
-    <a href="http://www.news.harvard.edu/gazette/2002/10.24/10-belfer.html">Sabine 
+    <a href="https://www.linkedin.com/in/dr-sabine-schaffer-5b672b/">Sabine 
     Schaffer</a> on trust in the Internet.<br>
 <a href="http://www.ccsr.cse.dmu.ac.uk/sara/">Sara Wilford</a> on privacy perceptions.<br>
 <A href="https://scholar.google.com/citations?user=S3OptzMAAAAJ">Azadeh Nematzadeh</a> on health information privacy.
-
+<A href="https://www.linkedin.com/in/yjrashidi/"> Yasmeen Rashidi, professor of  Security Informatics, Umm Al Qura University  </a><br>
 <br>
 <br>
  
@@ -180,18 +183,23 @@ works on perceptions and reality of PKI and privacy on the Internet, in smart ci
 <br>
 <A href="https://www.linkedin.com/in/nicserrano/">Nicolas Serrano</a> has done breakthrough work in interdisciplinary understanding of <A href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3425554 ">why PKI fails</a>
 <br>
-<A  href="https://www.linkedin.com/in/jonathan-schubauer-119a9976/">Jonathan Schubauer</a> examines the impact of regulation and organizational structure on privacy and permissions.
-<br>
     <A href="http://www.isec.co.in/">Sanjay Pandey</a> has spent his
     career innovating for secure, reliable, and transparent use of ICTs in
 India.<br>
-<!--<A href="http://www.norcie.com"">Greg Norcie</a> the intersection of   public policy, traditional usability with security and privacy.  <br>-->
-<A href="http://www.informatik.uni-trier.de/~ley/pers/hd/a/Asgharpour:Farzaneh">Farzaneh Asgharpour</a> did pioneering work applying mental models to usable security.
+<A href="https://www.linkedin.com/in/farzaneh07/">Farzaneh Asgharpour</a> did pioneering work applying mental models to usable security.
+<br>
+<A href="https://www.linkedin.com/in/darshilchheda/">Darshil Chheda</a> mobile dev, secure programmming practioner and researcher.
+<br>
+<A href="https://www.linkedin.com/in/kumar-yash/">Yash Kumar</a> AWS, experiment design, and full stack dev.
+<br>
+<A href="https://github.com/ndokmai">Farzaneh Asgharpour</a> did pioneering work applying mental models to usable security.
 <br>
 <A href="http://www.linkedin.com/in/tbross">Ty Bross</a> on mobile device security.
 <br>
     <a href="https://www.linkedin.com/in/allaweinberg/">Alla Weinberg</a> on usable security and social trust,  interaction designer on <A href="NetTrust">on Net Trust</a>.
     <br>
+    <A  href="https://www.linkedin.com/in/jonathan-schubauer-119a9976/">Jonathan Schubauer</a> examines the impact of regulation and organizational structure on privacy and permissions.
+<br>
  <A href="http://www.hillaryelmore.com">Hillary Elmore</a> on usable PGP.
  <br>
     <a href="www.linkedin.com/pub/gayathri-athreya/0/828/681">Gayathri Athreya</a> on usable security.
