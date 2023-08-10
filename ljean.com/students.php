@@ -25,7 +25,7 @@
     <h4><em>Current Doctoral Students</em><br></h4>
 <P align="justify">
     <br>
-    <A href="https://www.linkedin.com/in/canesu/">Anesu Chaora</a> brings a mastery of organizational, compliance, and technical perspectives of security.
+    <A href="https://www.linkedin.com/in/farnaz-asrari/">Farnaz Asrari</a> has joined us to address security and environmental impacts.
 <br>
      <br>
 <A href="https://www.linkedin.com/in/canesu/">Anesu Chaora</a> brings a mastery of organizational, compliance, and technical perspectives of security.

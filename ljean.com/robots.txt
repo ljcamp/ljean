@@ -3,3 +3,5 @@ Disallow: /files/ExecutiveEducation_4.ppt
 Disallow: /TPRC
 Disallow: /kenya
 Disallow: /transfer
+User-agent: GPTBot
+Disallow: /
