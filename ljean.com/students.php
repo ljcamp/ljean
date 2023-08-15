@@ -248,11 +248,11 @@ Jill Minor<br>
 <br>
 
  
-<h4>REU Current and Past</h4><br>
+<h4>REU Current and Past </h4>
 Supervised by myself and my research team, funded as part of research projects large and small. <br>This is not an exhaustive list. I include students who joined my research team, funded as part of research projects large and small, or funded by targeted programs for undergraduate research. Slowly adding links. If I have not yet included you, please let me know. If I included you and you would rather I not, please let me know about that as well.<br>
 <br>
 <h4>2023
-</h4><br>
+ </h4>
 Anudeep Annangi <br>
 Kawamara Ethan Mugire <br>
 Skyler Johnson  <br>
@@ -263,9 +263,7 @@ Nadia	Sabry<br>
 Blasio Phenzi <br>
 <br>
 <br>
-<br>
-<h4> 2022
-</h4><br>
+
 <h4>2022 </h4>
 <A href="https://www.linkedin.com/in/nadiasabry/">Nadia Sabry</a> <br>
 <A href="https://www.linkedin.com/in/shivanisadamksb/">Shivani Sadam </a> <br>
@@ -275,9 +273,9 @@ Blasio Phenzi <br>
 <A href="https://www.linkedin.com/in/joe-majors-4579bb138/">Joe Majors</a> <br>
 <br>
 <br>
-<br>
+
 <h4>2021
-</h4><br>
+ </h4>
 Ashley Bocher<br>
 Bingxing Wang<br>
 Ashley Bochner<br>
@@ -290,8 +288,8 @@ Jonathan Cheng <br>
 Brandon Flinn <br>
 <br>
 <br>
-<br>
-<h4>2020</h4><br>
+
+<h4>2020 </h4>
 Brendan Moore <br>
 Annie Tompkins <br>
 Joshua Devon Johnson <br>
@@ -302,9 +300,8 @@ Andrew Kim<br>
 Ashley Bocher<br>
  <br>
 <br>
-<br>
-<br>
-<h4>2019</h4><br>
+
+<h4>2019 </h4>
 <A href="https://www.linkedin.com/in/dominiquemclark/">Dominique Clark </A>
 Christa Abar <br>
 Max Harms<br>
@@ -320,47 +317,49 @@ Zachary Tingle<br>
 Ploy Unchi<br>
 <br>
 <br>
-<h4>2018</h4><br>
+<h4>2018 </h4>
 Yuyao Ba <br>
 Ebuka Egbunam<br>
 Tessa Imperial <br>
 <br>
 <br>
-<h4>2017</h4><br>
+<h4>2017 </h4>
 Olivia Kenny<br>
 Clint McElroy<br>
 Olivia Kenny<br>
 Brad Lufkin <br>
 Liberty Flora <br>
 <br>
-<h4>2016</h4><br>
+<br>
+<h4>2016 </h4>
 Rachel Huss<br>
 Melyssa Eland<br>
 Yeesoo Chae<br>
 Chanel Lange-Many <br>
 Ciabhan Connelly<br>
 <br>
-<h4>2015</h4><br>
+<br>
+<h4>2015 </h4>
 Caitlin Hanley<br>
 Debbie Taylor<br>
 <br>
 <br>
-<h4>2014</h4><br>
+<h4>2014 </h4>
 Todd Wantz<br>
 Donovan Price<br>
 <br>
 <br>
-<h4>2013</h4><br>
+<h4>2013 </h4>
 Robin Dalton<br>
 Celine Zimmerman<br>
 <br>
 <br>
-<h4>2011</h4><br>
+<h4>2011 </h4>
 Lan Li<br>
 Suzanne Lein<br>
 <br>
 <br>
-<h4>2010</h4><br>
+<h4>2010 </h4>
 Christopher Reinking<br>
 Keith Weisberg<br>
 Celine Zimmerman<br>
@@ -368,7 +367,7 @@ Varun Khanduka<br>
 Zack Zimmerman<br>
 <br>
 <br>
-<h4>2009</h4><br>
+<h4>2009 </h4>
 Alex Sulgrove <br>
 Micheal Roche  <br>
 Ye Danqing  <br>
@@ -384,7 +383,7 @@ Erin Widdicombe  <br>
 Kurt Weismann  <br>
 <br>
 <br>
-<h4>2008</h4><br>
+<h4>2008 </h4>
 Zack Zimmerman  <br>
 Craig Bauer  <br>
 Shari Brown  <br>
@@ -395,7 +394,7 @@ Greg Orlov  <br>
 Aidos Utegulov  <br>
 Jarret David  <br>
 <br>
-<h4>2007</h4><br>
+<h4>2007 </h4>
 Zack Zimmerman  <br>
 Craig Bauer  <br>
 Shari Brown  <br>
@@ -406,7 +405,7 @@ Greg Orlov  <br>
 Aidos Utegulov  <br>
 Jarret David  <br>
 <br>
-<h4>Before 2007</h4><br>
+<h4>Before 2007 </h4>
 <br>to do
 
 
