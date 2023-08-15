@@ -244,10 +244,28 @@ Jill Minor<br>
 <br>
 
 <br>
-
-<h4>REU Current and Past</h4><br>
-This is not an exhaustive list. I include students who joined my research team, funded as part of research projects large and small,  or funded by targeted programs for undergraduate research. Slowly adding links. If I have not yet included you, please let me know. If I included you and you would rather I not, please let me know about that as well. <br>
+<h3>More Alumni</h3>
 <br>
+
+ 
+<h4>REU Current and Past</h4><br>
+Supervised by myself and my research team, funded as part of research projects large and small. <br>This is not an exhaustive list. I include students who joined my research team, funded as part of research projects large and small, or funded by targeted programs for undergraduate research. Slowly adding links. If I have not yet included you, please let me know. If I included you and you would rather I not, please let me know about that as well.<br>
+<br>
+<h4>2023
+</h4><br>
+Anudeep Annangi <br>
+Kawamara Ethan Mugire <br>
+Skyler Johnson  <br>
+Katie Ferro  <br>
+Yuchen Yang <br>
+Olive	Belcher<br>
+Nadia	Sabry<br>
+Blasio Phenzi <br>
+<br>
+<br>
+<br>
+<h4> 2022
+</h4><br>
 <h4>2022 </h4>
 <A href="https://www.linkedin.com/in/nadiasabry/">Nadia Sabry</a> <br>
 <A href="https://www.linkedin.com/in/shivanisadamksb/">Shivani Sadam </a> <br>
@@ -256,7 +274,12 @@ This is not an exhaustive list. I include students who joined my research team, 
 <A href="https://www.linkedin.com/in/sahar-rabiei/">Sahar Rabiei </a> <br>
 <A href="https://www.linkedin.com/in/joe-majors-4579bb138/">Joe Majors</a> <br>
 <br>
-<h4>2021 </h4>
+<br>
+<br>
+<h4>2021
+</h4><br>
+Ashley Bocher<br>
+Bingxing Wang<br>
 Ashley Bochner<br>
 Shaurya  Swami<br>
 Skyler Johnson  <br>
@@ -266,9 +289,11 @@ Olivia Kenny <br>
 Jonathan Cheng <br>
 Brandon Flinn <br>
 <br>
-<h4>2020</h4>
-Brendan Moore REU <br>
-Annie Tompkins REU <br>
+<br>
+<br>
+<h4>2020</h4><br>
+Brendan Moore <br>
+Annie Tompkins <br>
 Joshua Devon Johnson <br>
 Jack Ruocco <br>
 Trevor Owen Cutshall<br>
@@ -276,7 +301,11 @@ Zora Streiff<br>
 Andrew Kim<br>
 Ashley Bocher<br>
  <br>
-<h4>2019</h4>
+<br>
+<br>
+<br>
+<h4>2019</h4><br>
+<A href="https://www.linkedin.com/in/dominiquemclark/">Dominique Clark </A>
 Christa Abar <br>
 Max Harms<br>
 Amanda King<br>
@@ -288,101 +317,99 @@ Joe Soellner <br>
 Jenni Munoz <br>
 Joshua Devon Johnson<br>
 Zachary Tingle<br>
-Ploy Unchit<br>
-Bingxing Wang<br>
+Ploy Unchi<br>
 <br>
-<h4>2018</h4>
+<br>
+<h4>2018</h4><br>
 Yuyao Ba <br>
 Ebuka Egbunam<br>
 Tessa Imperial <br>
 <br>
-<h4>2017</h4>
+<br>
+<h4>2017</h4><br>
 Olivia Kenny<br>
 Clint McElroy<br>
-Brad Lufkin (MACRO)<br>
-Liberty Flora (MACRO)<br>
-Jared Stemper<br>
+Olivia Kenny<br>
+Brad Lufkin <br>
+Liberty Flora <br>
 <br>
-<h4>2016</h4>
+<h4>2016</h4><br>
 Rachel Huss<br>
 Melyssa Eland<br>
 Yeesoo Chae<br>
-Chanel Lange-Many Penn State<br>
+Chanel Lange-Many <br>
 Ciabhan Connelly<br>
 <br>
-<h4>2015</h4>
-2015<br>
+<h4>2015</h4><br>
 Caitlin Hanley<br>
 Debbie Taylor<br>
 <br>
-<h4>2014</h4>
-2014<br>
+<br>
+<h4>2014</h4><br>
 Todd Wantz<br>
 Donovan Price<br>
 <br>
-<h4>2013</h4>
+<br>
+<h4>2013</h4><br>
 Robin Dalton<br>
 Celine Zimmerman<br>
 <br>
-<h4>2011</h4>
+<br>
+<h4>2011</h4><br>
 Lan Li<br>
 Suzanne Lein<br>
 <br>
-<h4>2010</h4>
+<br>
+<h4>2010</h4><br>
 Christopher Reinking<br>
 Keith Weisberg<br>
 Celine Zimmerman<br>
 Varun Khanduka<br>
 Zack Zimmerman<br>
 <br>
-<h4>2009</h4>
-Alex Sulgrove (ETHOS)<br>
-Micheal Roche (ETHOS)<br>
-Ye Danqing (ETHOS)<br>
-Micheal Rinhart (ETHOS)<br>
-John Wayne Hill (ETHOS)<br>
-Daria Orlovia (ETHOS)<br>
-Oliver McGraw (ETHOS)<br>
-Katie O'Donnell (ETHOS)<br>
-Claire Alvis (ETHOS)<br>
-Jeremy Green (ETHOS)<br>
-Katherine Kreig (ETHOS)<br>
-Erin Widdicombe (ETHOS)<br>
-Kurt Weismann (ETHOS)<br>
 <br>
-<h4>2008</h4>
-Zack Zimmerman (ETHOS)<br>
-Craig Bauer (ETHOS)<br>
-Shari Brown (ETHOS)<br>
-Lindsay Gibson (ETHOS)<br>
-Carol Ruppe (ETHOS)<br>
-Kurt Gindlink (ETHOS)<br>
-Greg Orlov (ETHOS)<br>
-Aidos Utegulov (ETHOS)<br>
-Jarret David (ETHOS)<br>
+<h4>2009</h4><br>
+Alex Sulgrove <br>
+Micheal Roche  <br>
+Ye Danqing  <br>
+Micheal Rinhart  <br>
+John Wayne Hill  <br>
+Daria Orlovia  <br>
+Oliver McGraw  <br>
+Katie O'Donnell  <br>
+Claire Alvis  <br>
+Jeremy Green  <br>
+Katherine Kreig  <br>
+Erin Widdicombe  <br>
+Kurt Weismann  <br>
 <br>
-<h4>2007</h4>
-Zack Zimmerman (ETHOS)<br>
-Craig Bauer (ETHOS)<br>
-Shari Brown (ETHOS)<br>
-Lindsay Gibson (ETHOS)<br>
-Carol Ruppe (ETHOS)<br>
-Kurt Gindlink (ETHOS)<br>
-Greg Orlov (ETHOS)<br>
-Aidos Utegulov (ETHOS)<br>
-Jarret David (ETHOS)<br>
+<br>
+<h4>2008</h4><br>
+Zack Zimmerman  <br>
+Craig Bauer  <br>
+Shari Brown  <br>
+Lindsay Gibson  <br>
+Carol Ruppe  <br>
+Kurt Gindlink  <br>
+Greg Orlov  <br>
+Aidos Utegulov  <br>
+Jarret David  <br>
+<br>
+<h4>2007</h4><br>
+Zack Zimmerman  <br>
+Craig Bauer  <br>
+Shari Brown  <br>
+Lindsay Gibson  <br>
+Carol Ruppe  <br>
+Kurt Gindlink  <br>
+Greg Orlov  <br>
+Aidos Utegulov  <br>
+Jarret David  <br>
 <br>
 <h4>Before 2007</h4><br>
-
-<br>
-
+<br>to do
 
 
-
-  <p align="justify"> <br>
-    <br>
-</div>
-<br>
 
 
 </body>
