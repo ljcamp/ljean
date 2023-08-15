@@ -258,7 +258,6 @@ Kawamara Ethan Mugire <br>
 Skyler Johnson  <br>
 Katie Ferro  <br>
 Yuchen Yang <br>
-Olive	Belcher<br>
 Nadia	Sabry<br>
 Blasio Phenzi <br>
 <br>
