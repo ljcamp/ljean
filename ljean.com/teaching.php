@@ -1,16 +1,19 @@
-<meta http-equiv="CONTENT-TYPE" content="text/html; charset=iso-8859-1"><title>Teaching &amp; Course History</title>
-<base href="http://www.ljean.com/">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<title>L Jean Camp</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="sub.css" type="text/css" rel="stylesheet">
 </head>
 <div id="container"> 
   <div id="title"></div>
 <p id="nav">
-<?php include('navLinks.html');?>
+    <?php include('navLinks.html');?>
+    
 </id>
 
 <br>
 <p>
-<br>
 <br>
 </a>
 <p align="justify" id="content"> <a name="top"><strong>Teaching</strong><br></a> <br>
@@ -19,7 +22,7 @@ I have worked with teams in INFO 491 but not every year. I have supervised stude
 <br>
 </em>
 	
-<em><br>Classes for the 2020-2021 academic year were the same as the 2021-2022<br></em></strong>
+<em><br>Traditional in-person sixteen week courses for the 2020-2021 academic year through 2023-2024. <br></em></strong>
 <br>Introduction to Mathematical Foundations of Cryptography  
 <br> Spring<br>
 A course that starts with substitution ciphers and ends with elliptic curves. If you learn nothing other than not to write your own, then you have learned the most critical rule of crypto. Crypto means cryptography.

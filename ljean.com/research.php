@@ -5,15 +5,14 @@
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
 <link href="sub.css" type="text/css" rel="stylesheet">
 </head>
-<div id="container">
-<div id="title"></div>
+<div id="container"> 
+  <div id="title"></div>
 <p id="nav">
-<?php include('navLinks.html');?>
-
+    <?php include('navLinks.html');?>
+    
 </id>
 
 <br>
-<p>
 
 <p>
 <br>
@@ -97,12 +96,3 @@ There is some question as to why end users do not adopt security technologies. W
 
 </body>
 </html>
-<!---------
-For information on events related to or including economics of security, please track <A href="http://www.infosecon.net/">http://www.infosecon.net/</a>.
-------!>
-<br><br>
-<!-----------
-<li>The call for papers <A href="http://infosecon.net/usec12/index.php"> Usable Security USEC 2012</a> is available here at http://infosecon.net/usec12/
-ndex.php. This workshop is affiliated with <A href="http://ifca.ai/fc12/">Finan
-cial Cryptography</a>
-----------!>
