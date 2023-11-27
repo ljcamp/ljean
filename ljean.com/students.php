@@ -3,18 +3,15 @@
 <head>
 <title>L Jean Camp</title>
 <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-<base href="http://www.ljean.com">  
-
 <link href="sub.css" type="text/css" rel="stylesheet">
-
 </head>
-<body> 
-
-<div id="container">
-<div id="title"></div>
+<div id="container"> 
+  <div id="title"></div>
 <p id="nav">
-     <?php include('navLinks.html');?>
+    <?php include('navLinks.html');?>
+    
 </id>
+
 <br>
 <p>
 <br>
@@ -138,7 +135,6 @@ As the Director of Cybersecurity Initiatives at National Telecommunications and 
 <A href="http://www.linkedin.com/pub/alex-tsow/2/184/8a2">Alex Tsow</a> on making programming easier, usable security. Alex combined programming languages with usability to make the creation of secure code easier for developers. 
 Alex was a post-doctoral fellow after working in our group his last year in the doctoral program.<br>
     <br><br>
-<br>
 CI Fellow and postdoctoral scholar <A href="https://www.linkedin.com/in/tatiana-ringenberg-263a924b/">Tatiana Ringenberg</a> expanded our
 focus to the most vulnerable on the Internet - kids. She is now an Assistant Professor at Purdue.
 <br>
@@ -223,6 +219,7 @@ India.<br>
 <A href="https://www.linkedin.com/in/helendougherty/">Helen Dougherty</a><br>
 Ken Lewis<br>
 Sonal Shrivastava  <br>
+Varun Vasudev<br>
 Omkar Bhide <br>
 Dakshi Kumar <br>
 Karrington Lewis <br>
@@ -240,14 +237,9 @@ Shravan Jagadish Kumar<br>
 Xiaomeng Ye <br>
 Srivatsan Iyer<br>
 Benedict Jones<br>
-Jill Minor<br>
 <br>
 
-<br>
-<h3>More Alumni</h3>
-<br>
 
- 
 <h4>REU Current and Past </h4>
 Supervised by myself and my research team, funded as part of research projects large and small. <br>This is not an exhaustive list. I include students who joined my research team, funded as part of research projects large and small, or funded by targeted programs for undergraduate research. Slowly adding links. If I have not yet included you, please let me know. If I included you and you would rather I not, please let me know about that as well.<br>
 <br>
@@ -301,7 +293,7 @@ Ashley Bocher<br>
 <br>
 
 <h4>2019 </h4>
-<A href="https://www.linkedin.com/in/dominiquemclark/">Dominique Clark </A>
+<A href="https://www.linkedin.com/in/dominiquemclark/">Dominique Clark </A><br>
 Christa Abar <br>
 Max Harms<br>
 Amanda King<br>
@@ -404,11 +396,14 @@ Greg Orlov  <br>
 Aidos Utegulov  <br>
 Jarret David  <br>
 <br>
+<br>
+<h4>2006 </h4>
+Matt Deniszcczuk  <br>
 <h4>Before 2007 </h4>
 <br>to do
 
 
-
+</div>
 
 </body>
 </html>
