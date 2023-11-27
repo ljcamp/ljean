@@ -90,6 +90,13 @@ There is some question as to why end users do not adopt security technologies. W
 <br>
 <A href= "http://www.ljean.com/research.html"><b>Other work available  here.</b></a><br>
 
+<br><br>
+</div>
+
+</div>
+
+</body>
+</html>
 <!---------
 For information on events related to or including economics of security, please track <A href="http://www.infosecon.net/">http://www.infosecon.net/</a>.
 ------!>
@@ -99,7 +106,3 @@ For information on events related to or including economics of security, please 
 ndex.php. This workshop is affiliated with <A href="http://ifca.ai/fc12/">Finan
 cial Cryptography</a>
 ----------!>
-<br><br>
-</div>
-
-</div>

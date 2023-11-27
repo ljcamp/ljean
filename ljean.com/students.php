@@ -163,9 +163,9 @@ focus to the most vulnerable on the Internet - kids. She is now an Assistant Pro
    <A href="http://www.linkedin.com/pub/serena-chan/6/232/ab9"> Serena Chan</a> on reliability and hardening by using commodity computing in satellites.<br>
     <a href="https://www.linkedin.com/in/dr-sabine-schaffer-5b672b/">Sabine 
     Schaffer</a> on trust in the Internet.<br>
-<a href="http://www.ccsr.cse.dmu.ac.uk/sara/">Sara Wilford</a> on privacy perceptions.<br>
-<A href="https://scholar.google.com/citations?user=S3OptzMAAAAJ">Azadeh Nematzadeh</a> on health information privacy.
-<A href="https://www.linkedin.com/in/yjrashidi/"> Yasmeen Rashidi, professor of  Security Informatics, Umm Al Qura University  </a><br>
+<a href="https://www.linkedin.com/in/sara-wilford-1aa25415/">Sara Wilford</a> on privacy perceptions.<br>
+<A href="https://scholar.google.com/citations?user=S3OptzMAAAAJ">Azadeh Nematzadeh</a> on health information privacy.<br>
+<A href="https://www.linkedin.com/in/yjrashidi/"> Yasmeen Rashidi</a> professor of  Security Informatics, Umm Al Qura University  </a><br>
 <br>
 <br>
  
@@ -224,6 +224,7 @@ Omkar Bhide <br>
 Dakshi Kumar <br>
 Karrington Lewis <br>
 Proveen Veeramachaneni<br>
+& Brian Anderson<br>
 Advait Marathe<br>
 Shreyas Kamath<br>
 Violeta Moreno<br>
@@ -397,10 +398,8 @@ Aidos Utegulov  <br>
 Jarret David  <br>
 <br>
 <br>
-<h4>2006 </h4>
+<h4>2006 and before </h4>
 Matt Deniszcczuk  <br>
-<h4>Before 2007 </h4>
-<br>to do
 
 
 </div>
