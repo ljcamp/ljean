@@ -28,9 +28,7 @@
 <A href="https://www.linkedin.com/in/canesu/">Anesu Chaora</a> brings a mastery of organizational, compliance, and technical perspectives of security.
 <br>
      <br>
-    <A href="https://www.linkedin.com/in/pcaven/"> Peter Caven</a> is evaluating organizational as well as individual security behaviors with a focus on securing the software and CPS supply chain.
-    <br>
-<br>
+ 
 <a href="https://www.linkedin.com/in/ambarish-gurjar-693a78129/">Ambarish Gurjar</a> leverages temporal graphs to generate risk profiles.
     <br>
 <br>
@@ -44,24 +42,25 @@
 <br>
 
 
-   <A href="https://lauracalloway.com/">Laura Calloway</a>
-     is examining information exfiltration on personal health devices. She is comparing the perceptions and reality of personal and health information, considering both security and privacy.
+Working with <A href="https://www.linkedin.com/in/victor-zhang-b6a85430/">Viktor Zhang</a> on design of authentication. He is primarily in HCI/d.
+<br><br>
+Working with  <A href="https://www.linkedin.com/in/william-smeal-phd-abd-6433b2163/"> William Smeal</a>, a Fulbright Scholar in Bulgaria and expert in  Cyrillic  languages and culture, on phishing resilience.
+   <br><br>
+<h4>Alumni</h4>
+<A href="https://lauracalloway.com/">Laura Calloway</a>
+     is examining information exfiltration on personal health devices using mixed methods to identify human factors which lead to data exfiltration and the design interventions to address these factors.
   
 
    <br>
 <br>
-   Post doctoral Fellow <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> brings his experience in start-ups and compliance to data analytics on the oft-ignored issues of environmental impact, accessibility, and security.
+   Alumni <A href="https://www.linkedin.com/in/jacob-abbott-74b33b14/">Jacob Abbott</a> brings his experience in start-ups and compliance to data analytics on the oft-ignored issues of environmental impact, accessibility, and security.
 
    
    <br>
 <br>
-   Post doctoral Fellow <A href="https://www.linkedin.com/in/shaghamar/"> Shagha Mardani </a> integrates performance optimization with security for both web and mobile applications. 
-   <br><br>
-As a committee member, working with <A href="https://www.linkedin.com/in/victor-zhang-b6a85430/">Viktor Zhang</a> on design of authentication. He is primarily in HCI/d.
-<br><br>
-As a committee member, working with  <A href="https://www.linkedin.com/in/william-smeal-phd-abd-6433b2163/"> William Smeal</a>, a Fulbright Scholar in Bulgaria and expert in  Cyrillic  languages and culture, on phishing resilience.
-   <br><br>
-<h4>Alumni</h4>
+<A href="https://www.linkedin.com/in/pcaven/"> Peter Caven</a> uses behavioral economics and HCI to evaluate organizational  and individual security behaviors with a focus on securing the software and CPS supply chains.
+    <br>
+<br>
 <A   href="https://www.linkedin.com/in/shakthidhar-gopavaram-ba576035">Shakthidhar
     Gopavaram</a> evaluated human risk taking combining behavorial economics and full stack development to examine expressed and revealed preferences. 
     <br>
@@ -78,14 +77,20 @@ As a committee member, working with  <A href="https://www.linkedin.com/in/willia
 <A href="https://www.linkedin.com/in/vafa-andalibi/"> Vafa Andalibi</a> has made pioneering contributions to the
 emerging standards for securing the IoT, particularly MUD and SBoM.<br>
 <br>
-
+<u>Tim Kelley</u> combined
+    human experimentation with large scale modeling. His implemented
+    complex systems models that integrate human behaviors as critical
+    variables. His research 
+    combined brain science with network science, and included designing innovative tools for mouse-tracking and eye tracking.
+    <br>
+    <br>
 <A href="https://www.linkedin.com/in/behnood-momenzadeh-202b374a">Behnood
     Momenzadeh</a> focused on evaluating cryptocurrency as a human, macroeconomic, and financial instrument. 
    <br>
 <br>
  <A  href="https://www.linkedin.com/in/sanchari-das/">Sanchari
-    Das</a> completed her dissertation on usable privacy and security with a particular focus on MFA. Her background is in
-    networking. 
+    Das</a> completed her dissertation on usable privacy and security with a particular focus on MFA. Her background is in computer science, particularly
+    networks. 
 <br>
 <br>
 <A href="http://www.linkedin.com/in/deckard">Gary Deckard</a> has bridged two divides: military and academic, computer
@@ -104,7 +109,7 @@ emerging standards for securing the IoT, particularly MUD and SBoM.<br>
 reminds us that engineers are humans too.
 <br>
 <br>
-    <a href="https://www.linkedin.com/in/zhdong/">Zheng Dong</a> is a pioneer in using machine learning in the service of computer security.
+    <a href="https://www.linkedin.com/in/zhdong/">Zheng Dong</a> was a pioneer in using machine learning in the service of computer security.
      His dissertation applied machine learning to the detection of phishing sites (using certificate analysis), rogues certificates, and banking certificates.  
       He finished his masters thesis in spring 2010 on the topic of the marginal return for adding an individual into a social network for the purposes of recommendations or discovery, which was prescient in its design focus of minimizing risk of data compilations. 
       He works at Microsoft Redmond. 
@@ -142,13 +147,7 @@ focus to the most vulnerable on the Internet - kids. She is now an Assistant Pro
     href="https://ise.washington.edu/people/faculty/rajivan"> Prashanth
     Rajivan</a> joined the team as a post-doctoral scholar. His focused on the
     psychology of security not only of individuals, organizations, and collaborations.
-    <br>
-    <br>
-<u>Tim Kelley</u> combined
-    human experimentation with large scale modeling. His implemented
-    complex systems models that integrate human behaviors as critical
-    variables. His research 
-    combined brain science with network science, and included designing innovative tools for mouse-tracking and eye tracking. 
+  
 <br>
     <br>
     <A  href="https://scholar.google.com/citations?user=VgK7YqYAAAAJ">Shrirang Mare</a> joined us as a post-doctoral scholar. He received his PhD from Dartmouth College, and his interests include security and privacy issues in pervasive computing, particularly in healthcare, usable security, and continuous authentication.  He recently completed a post-doctoral fellowship at the University of Washington.

@@ -58,7 +58,7 @@ Economics of information security</strong> bilbiography and list of events: <A h
  <em>The only place to order your free credit report</em> is <A href=https://www.annualcreditreport.com/>AnnualCreditReport.com</a>. The other services will either charge you, or keep the information you have authorized them to view and resell it.
 <br><br>
   <strong>Video Risk Communication for Security</strong>
-Don&#8217;t quite get security? <em>These should help.</em> <A href="http://ljean.com/awareness/awareness.php#video">Security Awareness Videos</a> for your use.
+Don&#8217;t quite get security? <em>These should help.</em> <A href="https://www.youtube.com/@securityawarenessvideos6106">Security Awareness Videos</a> for your use.
 <br>
 <br>
 	   Network data showing Trump campaign interaction with Alfa Bank is available here </em> <A href="http://www.ljean.com/NetworkData.php">at http://www.ljean.com/NetworkData.php</a> for your information.
