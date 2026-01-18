@@ -102,9 +102,10 @@ Ethical Technologies in the Homes of Seniors, <A href="http://ethos.soic.indiana
        
         <em>Office Hours</em><br>
         I have office hours only during the academic year. I am teaching in class and online in fall. My office hours are posted for my students. <br>
-        901 E 10th St (Informatics)<br>
-        Room 300<br>
-        Mondays 15:00 - 18:00 pm<br>
+        Woodward hall (SIS)<br>
+        Room 305<br>
+        Mondays 4:00- 6:00 pm<br>
+		Tuesday 10:15-11:30<br>
         Or by appointment.<br>
         </center>
 
