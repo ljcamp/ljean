@@ -84,9 +84,7 @@ Our research on computing risk requires first understanding the risk, using mach
     <br>    <br>
 My <A href = http://usablesecurity.net/>Human-Centered Security</a> Project.
     <br>
-    <br>
- <A href = http://usablesecurity.net/macrosec>Risk On The Network</a>, the IU component of the MACROSEC Project.
-    <br>
+
 <br>
 
 Ethical Technologies in the Homes of Seniors, <A href="http://ethos.soic.indiana.edu/">ETHOS</a> Project; and here is a <A href="http://pti.iu.edu/video/ethos-lr">video overview. </a>
